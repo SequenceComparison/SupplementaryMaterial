@@ -1,0 +1,1253 @@
+"classifier (clothes)",(evobench_100/Bai)
+Gongxing	kʰ	o	-	ŋ	⁵⁵
+Heqing..	kʰ	ɔ	w	-	⁵⁵
+==	==	==	==	==	==
+Gongxing	kʰ	o	ŋ	⁵⁵
+Heqing..	kʰ	ɔ	w	⁵⁵
+
+"cold",(evobench_103/Bai)
+Gongxing	g	a	¹²	-	-	-
+Dashi...	k	ɯ	⁰	k	a	²¹
+==	==	==	==	==	==	==
+Gongxing	-	-	-	g	a	¹²
+Dashi...	k	ɯ	⁰	k	a	²¹
+
+"cold",(evobench_103/Bai)
+Luobenzhuo	k	ɯ	⁵⁵	-	-	-
+Dashi.....	k	ɯ	⁰	k	a	²¹
+==	==	==	==	==	==	==
+Luobenzhuo	-	-	-	k	ɯ	⁵⁵
+Dashi.....	k	ɯ	⁰	k	a	²¹
+
+"cold",(evobench_103/Bai)
+Zhoucheng	k	ɯ	³⁵	-	-	-
+Dashi....	k	ɯ	⁰	k	a	²¹
+==	==	==	==	==	==	==
+Zhoucheng	-	-	-	k	ɯ	³⁵
+Dashi....	k	ɯ	⁰	k	a	²¹
+
+"cold",(evobench_103/Bai)
+Lanping	k	ɯ	⁴⁴	-	-	-
+Dashi..	k	ɯ	⁰	k	a	²¹
+==	==	==	==	==	==	==
+Lanping	-	-	-	k	ɯ	⁴⁴
+Dashi..	k	ɯ	⁰	k	a	²¹
+
+"cold",(evobench_103/Bai)
+Enqi.	k	ɯ	²⁴	-	-	-
+Dashi	k	ɯ	⁰	k	a	²¹
+==	==	==	==	==	==	==
+Enqi.	-	-	-	k	ɯ	²⁴
+Dashi	k	ɯ	⁰	k	a	²¹
+
+"to cry",(evobench_106/Bai)
+Heqing...	xʰ	ɛ	⁵⁵	k	w	ɔ	-	⁵⁵
+Jianchuan	-	-	-	kʰ	-	o	w	⁴⁴
+==	==	==	==	==	==	==	==	==
+Heqing...	xʰ	ɛ	⁵⁵	k	-	w	ɔ	⁵⁵
+Jianchuan	-	-	-	kʰ	o	w	-	⁴⁴
+
+"to cut up",(evobench_108/Bai)
+Luobenzhuo	ɕ	-	o	-	⁴⁴
+Gongxing..	ʦʰ	w	a	ŋ	²²
+==	==	==	==	==	==
+Luobenzhuo	-	ɕ	o	-	⁴⁴
+Gongxing..	ʦʰ	w	a	ŋ	²²
+
+"to cut up",(evobench_108/Bai)
+Dashi.....	ʦʰ	w	ã	³³
+Luobenzhuo	ɕ	-	o	⁴⁴
+==	==	==	==	==
+Dashi.....	ʦʰ	w	ã	³³
+Luobenzhuo	-	ɕ	o	⁴⁴
+
+"to cut up",(evobench_108/Bai)
+Jianxing..	ʦʰ	w	ɑ̃	³³
+Luobenzhuo	ɕ	-	o	⁴⁴
+==	==	==	==	==
+Jianxing..	ʦʰ	w	ɑ̃	³³
+Luobenzhuo	-	ɕ	o	⁴⁴
+
+"to cut up",(evobench_108/Bai)
+Qiliqiao..	ʧʰ	w	a	³³
+Luobenzhuo	ɕ	-	o	⁴⁴
+==	==	==	==	==
+Qiliqiao..	ʧʰ	w	a	³³
+Luobenzhuo	-	ɕ	o	⁴⁴
+
+"to cut up",(evobench_108/Bai)
+Yunlong...	ʦʰ	w	a	³³
+Luobenzhuo	ɕ	-	o	⁴⁴
+==	==	==	==	==
+Yunlong...	ʦʰ	w	a	³³
+Luobenzhuo	-	ɕ	o	⁴⁴
+
+"to cut up",(evobench_108/Bai)
+Mazhelong.	ʦʰ	w	e	n	³³
+Luobenzhuo	ɕ	-	o	-	⁴⁴
+==	==	==	==	==	==
+Mazhelong.	ʦʰ	w	e	n	³³
+Luobenzhuo	-	ɕ	o	-	⁴⁴
+
+"to cut up",(evobench_108/Bai)
+Luobenzhuo	ɕ	-	o	⁴⁴
+Enqi......	ʨʰ	ɥ	ɛ	²²
+==	==	==	==	==
+Luobenzhuo	-	ɕ	o	⁴⁴
+Enqi......	ʨʰ	ɥ	ɛ	²²
+
+"daughter",(evobench_109/Bai)
+Jinman	ɲ	-	i	w	-	²²
+Tuoluo	-	j	ɤ	-	ŋ	³³
+==	==	==	==	==	==	==
+Jinman	ɲ	i	w	²²
+Tuoluo	j	ɤ	ŋ	³³
+
+"daughter",(evobench_109/Bai)
+Ega......	ɲ	-	i	w	²²
+Jianchuan	-	j	ɤ̃	-	³³
+==	==	==	==	==	==
+Ega......	ɲ	i	w	²²
+Jianchuan	j	ɤ̃	-	³³
+
+"daughter",(evobench_109/Bai)
+Enqi..	ɲ	-	i	w	²²
+Heqing	-	j	ɔ̃	-	³³
+==	==	==	==	==	==
+Enqi..	ɲ	i	w	²²
+Heqing	j	ɔ̃	-	³³
+
+"daughter",(evobench_109/Bai)
+Ega..	ɲ	-	i	w	²²
+Dashi	-	j	ũ	-	³³
+==	==	==	==	==	==
+Ega..	ɲ	i	w	²²
+Dashi	j	ũ	-	³³
+
+"day",(evobench_110/Bai)
+Gongxing	ɲ	-	i	-	²²
+Dashi...	-	j	e	n	³³
+==	==	==	==	==	==
+Gongxing	-	-	ɲ	i	²²
+Dashi...	j	e	n	-	³³
+
+"day",(evobench_110/Bai)
+Luobenzhuo	ɲ	-	i	³³
+Heqing....	-	j	ĩ	⁴⁴
+==	==	==	==	==
+Luobenzhuo	ɲ	i	³³
+Heqing....	j	ĩ	⁴⁴
+
+"day",(evobench_110/Bai)
+Enqi.....	ɲ	-	i	²²
+Jianchuan	-	j	ĩ	⁴⁴
+==	==	==	==	==
+Enqi.....	ɲ	i	²²
+Jianchuan	j	ĩ	⁴⁴
+
+"day",(evobench_110/Bai)
+Dashi...	-	j	e	n	³³
+Xiangyun	n	-	i	-	⁴⁴
+==	==	==	==	==	==
+Dashi...	j	e	n	-	³³
+Xiangyun	-	-	n	i	⁴⁴
+
+"day",(evobench_110/Bai)
+Jinman	ɲ	-	i	⁵⁵
+Heqing	-	j	ĩ	⁴⁴
+==	==	==	==	==
+Jinman	ɲ	i	⁵⁵
+Heqing	j	ĩ	⁴⁴
+
+"day",(evobench_110/Bai)
+Jinman	ɲ	-	i	-	⁵⁵
+Dashi.	-	j	e	n	³³
+==	==	==	==	==	==
+Jinman	-	-	ɲ	i	⁵⁵
+Dashi.	j	e	n	-	³³
+
+"day",(evobench_110/Bai)
+Qiliqiao	ɲ	-	i	-	⁴⁴
+Dashi...	-	j	e	n	³³
+==	==	==	==	==	==
+Qiliqiao	-	-	ɲ	i	⁴⁴
+Dashi...	j	e	n	-	³³
+
+"day",(evobench_110/Bai)
+Luobenzhuo	ɲ	-	i	-	³³
+Dashi.....	-	j	e	n	³³
+==	==	==	==	==	==
+Luobenzhuo	-	-	ɲ	i	³³
+Dashi.....	j	e	n	-	³³
+
+"day",(evobench_110/Bai)
+Jianchuan	-	j	ĩ	⁴⁴
+Mazhelong	n	-	i	⁴⁴
+==	==	==	==	==
+Jianchuan	j	ĩ	⁴⁴
+Mazhelong	n	i	⁴⁴
+
+"dragon ",(evobench_114/Bai)
+Tuoluo.	l	o	ŋ	³⁵
+Lanping	n	ɔ	-	²¹
+==	==	==	==	==	==
+Tuoluo.	l	o	ŋ	-	³⁵
+Lanping	-	-	n	ɔ	²¹
+
+"dragon ",(evobench_114/Bai)
+Tuoluo	l	o	ŋ	³⁵
+Eryuan	n	ɤ	-	²¹
+==	==	==	==	==	==
+Tuoluo	l	o	ŋ	-	³⁵
+Eryuan	-	-	n	ɤ	²¹
+
+"dragon ",(evobench_114/Bai)
+Heqing	n	u	-	²¹
+Tuoluo	l	o	ŋ	³⁵
+==	==	==	==	==	==
+Heqing	-	-	n	u	²¹
+Tuoluo	l	o	ŋ	-	³⁵
+
+"bamboo",(evobench_115/Bai)
+Lanping	ʦ	w	a	⁵⁵	ʦ	ɯ	³³
+Tuoluo.	t͡ʂ	-	ɤ	⁴²	-	-	-
+==	==	==	==	==	==	==	==
+Lanping	ʦ	w	a	⁵⁵	ʦ	ɯ	³³
+Tuoluo.	-	-	-	-	t͡ʂ	ɤ	⁴²
+
+"earring",(evobench_119/Bai)
+Tuoluo..	-	-	-	q	o	ŋ	³⁵	-	-	-	-
+Qiliqiao	n	ɤ	³³	k	ɤ	-	²¹	k	w	a	⁴⁴
+==	==	==	==	==	==	==	==	==	==	==	==
+Tuoluo..	-	-	-	-	-	-	q	-	o	ŋ	³⁵
+Qiliqiao	n	ɤ	³³	k	ɤ	²¹	k	w	a	-	⁴⁴
+
+"earring",(evobench_119/Bai)
+Luobenzhuo	ʔ	ẽ	⁵⁵	q	ɔ	²¹	-	-	-
+Lanping...	j	ɛ̃	⁴⁴	k	ɔ̃	³¹	ʨ	ĩ	⁴⁴
+==	==	==	==	==	==	==	==	==	==
+Luobenzhuo	-	-	-	ʔ	ẽ	⁵⁵	q	ɔ	²¹
+Lanping...	j	ɛ̃	⁴⁴	k	ɔ̃	³¹	ʨ	ĩ	⁴⁴
+
+"earring",(evobench_119/Bai)
+Luobenzhuo	ʔ	ẽ	⁵⁵	q	ɔ	²¹	-	-	-
+Eryuan....	ɲ	ɤ	³³	k	ɤ	³¹	ʦ	a	²¹
+==	==	==	==	==	==	==	==	==	==
+Luobenzhuo	-	-	-	ʔ	ẽ	⁵⁵	q	ɔ	²¹
+Eryuan....	ɲ	ɤ	³³	k	ɤ	³¹	ʦ	a	²¹
+
+"earring",(evobench_119/Bai)
+Tuoluo	-	-	-	q	o	-	ŋ	³⁵
+Heqing	j	ĩ	³³	k	ɔ̃	w	-	⁴²
+==	==	==	==	==	==	==	==	==
+Tuoluo	-	-	-	q	o	ŋ	³⁵
+Heqing	j	ĩ	³³	k	ɔ̃	w	⁴²
+
+"earring",(evobench_119/Bai)
+Tuoluo.	-	-	-	q	o	ŋ	³⁵	-	-	-
+Lanping	j	ɛ̃	⁴⁴	k	ɔ̃	-	³¹	ʨ	ĩ	⁴⁴
+==	==	==	==	==	==	==	==	==	==	==
+Tuoluo.	-	-	-	-	-	-	q	o	ŋ	³⁵
+Lanping	j	ɛ̃	⁴⁴	k	ɔ̃	³¹	ʨ	ĩ	-	⁴⁴
+
+"earring",(evobench_119/Bai)
+Tuoluo	-	-	-	q	o	ŋ	³⁵	-	-	-
+Eryuan	ɲ	ɤ	³³	k	ɤ	-	³¹	ʦ	a	²¹
+==	==	==	==	==	==	==	==	==	==	==
+Tuoluo	-	-	-	-	-	-	q	o	ŋ	³⁵
+Eryuan	ɲ	ɤ	³³	k	ɤ	³¹	ʦ	a	-	²¹
+
+"earth",(evobench_120/Bai)
+Tuoluo....	ʑ	i	²¹	-	-	-
+Luobenzhuo	ʨ	ĩ	⁴⁴	p	a	⁴²
+==	==	==	==	==	==	==
+Tuoluo....	-	-	-	ʑ	i	²¹
+Luobenzhuo	ʨ	ĩ	⁴⁴	p	a	⁴²
+
+"earth",(evobench_120/Bai)
+Luobenzhuo	ʨ	ĩ	⁴⁴	p	a	⁴²
+Mazhelong.	t	i	²¹	-	-	-
+==	==	==	==	==	==	==
+Luobenzhuo	ʨ	ĩ	⁴⁴	p	a	⁴²
+Mazhelong.	-	-	-	t	i	²¹
+
+"earth",(evobench_120/Bai)
+Xiangyun	j	i	³¹	p	ɛ	²¹
+Gongxing	ʥ	i	⁴²	-	-	-
+==	==	==	==	==	==	==
+Xiangyun	j	i	³¹	p	ɛ	²¹
+Gongxing	-	-	-	ʥ	i	⁴²
+
+"earth",(evobench_120/Bai)
+Xiangyun	j	i	³¹	p	ɛ	²¹
+Ega.....	ʨ	i	⁴²	-	-	-
+==	==	==	==	==	==	==
+Xiangyun	j	i	³¹	p	ɛ	²¹
+Ega.....	-	-	-	ʨ	i	⁴²
+
+"earth",(evobench_120/Bai)
+Heqing...	ʨ	i	³¹	p	ɛ	²¹
+Mazhelong	t	i	²¹	-	-	-
+==	==	==	==	==	==	==
+Heqing...	ʨ	i	³¹	p	ɛ	²¹
+Mazhelong	-	-	-	t	i	²¹
+
+"earth",(evobench_120/Bai)
+Tuoluo...	ʑ	i	²¹	-	-	-
+Jianchuan	ʨ	i	³¹	p	ɛ	²¹
+==	==	==	==	==	==	==
+Tuoluo...	-	-	-	ʑ	i	²¹
+Jianchuan	ʨ	i	³¹	p	ɛ	²¹
+
+"eight",(evobench_124/Bai)
+Lanping	p	j	a	⁴⁴
+Tuoluo.	ʨ	-	o	⁴²
+==	==	==	==	==
+Lanping	p	j	a	⁴⁴
+Tuoluo.	-	ʨ	o	⁴²
+
+"eight",(evobench_124/Bai)
+Enqi..	p	j	a	⁵⁵
+Tuoluo	ʨ	-	o	⁴²
+==	==	==	==	==
+Enqi..	p	j	a	⁵⁵
+Tuoluo	-	ʨ	o	⁴²
+
+"eight",(evobench_124/Bai)
+Jianxing	p	j	o	⁴⁴
+Tuoluo..	ʨ	-	o	⁴²
+==	==	==	==	==
+Jianxing	p	j	o	⁴⁴
+Tuoluo..	-	ʨ	o	⁴²
+
+"bark",(evobench_125/Bai)
+Tuoluo...	d	j	ɯ	-	²¹	b	i	³⁵
+Mazhelong	ɕ	-	e	n	⁵⁵	p	e	²¹
+==	==	==	==	==	==	==	==	==
+Tuoluo...	d	j	ɯ	-	²¹	b	i	³⁵
+Mazhelong	-	ɕ	e	n	⁵⁵	p	e	²¹
+
+"bark",(evobench_125/Bai)
+Tuoluo.	d	j	ɯ	²¹	b	i	³⁵	-	-	-
+Lanping	-	-	-	-	p	ĩ	⁴²	s	e	⁴⁴
+==	==	==	==	==	==	==	==	==	==	==
+Tuoluo.	d	j	ɯ	²¹	b	i	³⁵
+Lanping	-	p	ĩ	⁴²	s	e	⁴⁴
+
+"bark",(evobench_125/Bai)
+Mazhelong.	ɕ	e	n	⁵⁵	p	e	²¹
+Luobenzhuo	ʥ	ỹ	-	⁴²	-	-	-
+==	==	==	==	==	==	==	==
+Mazhelong.	ɕ	e	n	⁵⁵	p	e	²¹
+Luobenzhuo	-	-	-	-	ʥ	ỹ	⁴²
+
+"eye",(evobench_126/Bai)
+Eryuan	ŋ	w	e	³³
+Jinman	m	-	i	²²
+==	==	==	==	==
+Eryuan	ŋ	w	e	³³
+Jinman	-	m	i	²²
+
+"eye",(evobench_126/Bai)
+Lanping	-	w	ẽ	⁴⁴
+Jinman.	m	-	i	²²
+==	==	==	==	==
+Lanping	w	ẽ	⁴⁴
+Jinman.	m	i	²²
+
+"eye",(evobench_126/Bai)
+Jinman...	m	-	i	²²
+Jianchuan	-	w	ẽ	³³
+==	==	==	==	==
+Jinman...	m	i	²²
+Jianchuan	w	ẽ	³³
+
+"eye",(evobench_126/Bai)
+Tuoluo	-	w	e	n	³³
+Jinman	m	-	i	-	²²
+==	==	==	==	==	==
+Tuoluo	w	e	n	³³
+Jinman	m	i	-	²²
+
+"eye",(evobench_126/Bai)
+Luobenzhuo	m	-	i	-	³³
+Gongxing..	-	w	e	n	²²
+==	==	==	==	==	==
+Luobenzhuo	m	i	-	³³
+Gongxing..	w	e	n	²²
+
+"eye",(evobench_126/Bai)
+Zhoucheng	-	w	e	³³
+Jinman...	m	-	i	²²
+==	==	==	==	==
+Zhoucheng	w	e	³³
+Jinman...	m	i	²²
+
+"eye",(evobench_126/Bai)
+Mazhelong	ŋ	w	ɛ	³³
+Jinman...	m	-	i	²²
+==	==	==	==	==
+Mazhelong	ŋ	w	ɛ	³³
+Jinman...	-	m	i	²²
+
+"eye",(evobench_126/Bai)
+Luobenzhuo	m	-	i	³³
+Lanping...	-	w	ẽ	⁴⁴
+==	==	==	==	==
+Luobenzhuo	m	i	³³
+Lanping...	w	ẽ	⁴⁴
+
+"eye",(evobench_126/Bai)
+Luobenzhuo	m	-	i	-	³³
+Tuoluo....	-	w	e	n	³³
+==	==	==	==	==	==
+Luobenzhuo	m	i	-	³³
+Tuoluo....	w	e	n	³³
+
+"to fall down, to drop",(evobench_127/Bai)
+Gongxing	ʨ	-	ɛ	²⁴
+Ega.....	t	w	a	⁴²
+==	==	==	==	==
+Gongxing	-	ʨ	ɛ	²⁴
+Ega.....	t	w	a	⁴²
+
+"to fall down, to drop",(evobench_127/Bai)
+Gongxing	ʨ	ɛ	²⁴	-	-	-
+Yunlong.	t	o	⁴⁴	f	ɛ	⁴⁴
+==	==	==	==	==	==	==
+Gongxing	-	-	-	ʨ	ɛ	²⁴
+Yunlong.	t	o	⁴⁴	f	ɛ	⁴⁴
+
+"to fall down, to drop",(evobench_127/Bai)
+Gongxing	ʨ	-	ɛ	²⁴
+Jianxing	t	w	ɑ	⁴²
+==	==	==	==	==
+Gongxing	-	ʨ	ɛ	²⁴
+Jianxing	t	w	ɑ	⁴²
+
+"to fall down, to drop",(evobench_127/Bai)
+Gongxing	ʨ	ɛ	²⁴	-	-	-
+Qiliqiao	t	o	⁴⁴	x	ɯ	⁵⁵
+==	==	==	==	==	==	==
+Gongxing	-	-	-	ʨ	ɛ	²⁴
+Qiliqiao	t	o	⁴⁴	x	ɯ	⁵⁵
+
+"to fall down, to drop",(evobench_127/Bai)
+Gongxing	ʨ	ɛ	²⁴	-	-	-
+Eryuan..	t	o	⁴⁴	p	a	⁴⁴
+==	==	==	==	==	==	==
+Gongxing	-	-	-	ʨ	ɛ	²⁴
+Eryuan..	t	o	⁴⁴	p	a	⁴⁴
+
+"to fall down, to drop",(evobench_127/Bai)
+Gongxing	ʨ	-	ɛ	²⁴
+Enqi....	d	w	a	²¹
+==	==	==	==	==
+Gongxing	-	ʨ	ɛ	²⁴
+Enqi....	d	w	a	²¹
+
+"far",(evobench_128/Bai)
+Ega......	t	-	i	-	²²
+Mazhelong	ʦ	w	e	n	³³
+==	==	==	==	==	==
+Ega......	-	t	i	-	²²
+Mazhelong	ʦ	w	e	n	³³
+
+"far",(evobench_128/Bai)
+Jinman...	t	-	y	j	²²
+Mazhelong	ʦ	w	e	n	³³
+==	==	==	==	==	==
+Jinman...	-	t	y	j	²²
+Mazhelong	ʦ	w	e	n	³³
+
+"finger ",(evobench_129/Bai)
+Gongxing	ʂ	i	²²	-	-	-	t͡ʂ	-	i	²²
+Lanping.	s	ɯ	³³	t	i	⁵⁵	t	j	ɯ	³³
+==	==	==	==	==	==	==	==	==	==	==
+Gongxing	ʂ	i	²²	-	-	-	-	t͡ʂ	i	²²
+Lanping.	s	ɯ	³³	t	i	⁵⁵	t	j	ɯ	³³
+
+"finger ",(evobench_129/Bai)
+Jinman	ɕ	i	²²	-	-	-	t͡ʂ	ɚ	²²	-	-	-	-
+Heqing	sʰ	ɯ	³³	t	ɯ	²¹	t	i	⁵⁵	m	ɔ	w	³³
+==	==	==	==	==	==	==	==	==	==	==	==	==	==
+Jinman	ɕ	i	²²	-	-	-	-	-	-	t͡ʂ	ɚ	-	²²
+Heqing	sʰ	ɯ	³³	t	ɯ	²¹	t	i	⁵⁵	m	ɔ	w	³³
+
+"finger ",(evobench_129/Bai)
+Dashi	ʂ	ɯ	³³	t	i	³¹	-	-	-
+Ega..	ɕ	i	²²	-	-	-	ʦ	ɛ	²²
+==	==	==	==	==	==	==	==	==	==
+Dashi	ʂ	ɯ	³³	t	i	³¹
+Ega..	ɕ	i	²²	ʦ	ɛ	²²
+
+"fingernail",(evobench_130/Bai)
+Enqi.....	-	-	-	t	j	ɯ	²¹	q	a	²⁴
+Mazhelong	s	ǝɯ	³³	-	-	-	-	k	ɚ	⁴⁴
+==	==	==	==	==	==	==	==	==	==	==
+Enqi.....	t	j	ɯ	²¹	q	a	²⁴
+Mazhelong	-	s	ǝɯ	³³	k	ɚ	⁴⁴
+
+"fingernail",(evobench_130/Bai)
+Enqi....	-	-	-	t	j	ɯ	²¹	q	-	a	²⁴
+Qiliqiao	s	ɯ	³³	ʨ	-	i	³³	k	j	ɛ	⁴⁴
+==	==	==	==	==	==	==	==	==	==	==	==
+Enqi....	t	j	ɯ	²¹	q	a	²⁴	-	-	-	-
+Qiliqiao	-	s	ɯ	³³	ʨ	i	³³	k	j	ɛ	⁴⁴
+
+"fingernail",(evobench_130/Bai)
+Gongxing.	-	-	-	t͡ʂ	i	²⁴	q	a	²⁴
+Mazhelong	s	ǝɯ	³³	-	-	-	k	ɚ	⁴⁴
+==	==	==	==	==	==	==	==	==	==
+Gongxing.	t͡ʂ	i	²⁴	q	a	²⁴
+Mazhelong	s	ǝɯ	³³	k	ɚ	⁴⁴
+
+"fire",(evobench_131/Bai)
+Qiliqiao	x	w	e	³³
+Ega.....	f	-	i	²²
+==	==	==	==	==
+Qiliqiao	x	w	e	³³
+Ega.....	-	f	i	²²
+
+"fire",(evobench_131/Bai)
+Lanping	x	w	e	⁴⁴
+Jinman.	f	-	i	²²
+==	==	==	==	==
+Lanping	x	w	e	⁴⁴
+Jinman.	-	f	i	²²
+
+"fire",(evobench_131/Bai)
+Heqing	xʰ	w	e	³³
+Ega...	f	-	i	²²
+==	==	==	==	==
+Heqing	xʰ	w	e	³³
+Ega...	-	f	i	²²
+
+"fire",(evobench_131/Bai)
+Lanping...	x	w	e	⁴⁴
+Luobenzhuo	f	-	i	³³
+==	==	==	==	==
+Lanping...	x	w	e	⁴⁴
+Luobenzhuo	-	f	i	³³
+
+"fire",(evobench_131/Bai)
+Gongxing.	x	w	ɛ	²²
+Mazhelong	f	-	i	³³
+==	==	==	==	==
+Gongxing.	x	w	ɛ	²²
+Mazhelong	-	f	i	³³
+
+"fire",(evobench_131/Bai)
+Jianchuan.	x	w	e	³³
+Luobenzhuo	f	-	i	³³
+==	==	==	==	==
+Jianchuan.	x	w	e	³³
+Luobenzhuo	-	f	i	³³
+
+"fire",(evobench_131/Bai)
+Dashi.	x	w	i	³³
+Jinman	f	-	i	²²
+==	==	==	==	==
+Dashi.	x	w	i	³³
+Jinman	-	f	i	²²
+
+"fire",(evobench_131/Bai)
+Heqing...	xʰ	w	e	³³
+Mazhelong	f	-	i	³³
+==	==	==	==	==
+Heqing...	xʰ	w	e	³³
+Mazhelong	-	f	i	³³
+
+"fire",(evobench_131/Bai)
+Enqi.....	x	w	i	²²
+Mazhelong	f	-	i	³³
+==	==	==	==	==
+Enqi.....	x	w	i	²²
+Mazhelong	-	f	i	³³
+
+"fire",(evobench_131/Bai)
+Gongxing	x	w	ɛ	²²
+Ega.....	f	-	i	²²
+==	==	==	==	==
+Gongxing	x	w	ɛ	²²
+Ega.....	-	f	i	²²
+
+"firewood",(evobench_132/Bai)
+Zhoucheng	ɕ	-	i	-	³⁵
+Gongxing.	χ	j	e	n	⁵⁵
+==	==	==	==	==	==
+Zhoucheng	-	ɕ	i	-	³⁵
+Gongxing.	χ	j	e	n	⁵⁵
+
+"firewood",(evobench_132/Bai)
+Gongxing	χ	j	e	n	⁵⁵
+Enqi....	s	-	i	-	²⁴
+==	==	==	==	==	==
+Gongxing	χ	j	e	n	⁵⁵
+Enqi....	-	s	i	-	²⁴
+
+"fish",(evobench_133/Bai)
+Gongxing	ŋ	-	o	⁵⁵
+Dashi...	-	w	ɤ̃	³⁵
+==	==	==	==	==
+Gongxing	ŋ	o	⁵⁵
+Dashi...	w	ɤ̃	³⁵
+
+"fish",(evobench_133/Bai)
+Yunlong..	ŋ	ɯ	-	³⁵
+Mazhelong	-	o	ŋ	⁵⁵
+==	==	==	==	==
+Yunlong..	-	ŋ	ɯ	³⁵
+Mazhelong	o	ŋ	-	⁵⁵
+
+"fish",(evobench_133/Bai)
+Qiliqiao.	ŋ	ɤ	-	³⁵
+Mazhelong	-	o	ŋ	⁵⁵
+==	==	==	==	==
+Qiliqiao.	-	ŋ	ɤ	³⁵
+Mazhelong	o	ŋ	-	⁵⁵
+
+"fish",(evobench_133/Bai)
+Tuoluo	ŋ	-	ɤ	⁵⁵
+Dashi.	-	w	ɤ̃	³⁵
+==	==	==	==	==
+Tuoluo	ŋ	ɤ	⁵⁵
+Dashi.	w	ɤ̃	³⁵
+
+"fish",(evobench_133/Bai)
+Lanping...	-	ũ	⁵⁵
+Luobenzhuo	ɴ̣	-	³⁵
+==	==	==	==
+Lanping...	ũ	-	⁵⁵
+Luobenzhuo	-	ɴ̣	³⁵
+
+"fish",(evobench_133/Bai)
+Ega..	ŋ	-	u	⁵⁵
+Dashi	-	w	ɤ̃	³⁵
+==	==	==	==	==
+Ega..	ŋ	u	⁵⁵
+Dashi	w	ɤ̃	³⁵
+
+"five",(evobench_134/Bai)
+Xiangyun	-	w	ɔ̃	³³
+Gongxing	ŋ	-	o	²²
+==	==	==	==	==
+Xiangyun	w	ɔ̃	³³
+Gongxing	ŋ	o	²²
+
+"five",(evobench_134/Bai)
+Lanping	-	w	õ	⁴⁴
+Jinman.	ŋ	-	u	²²
+==	==	==	==	==
+Lanping	w	õ	⁴⁴
+Jinman.	ŋ	u	²²
+
+"five",(evobench_134/Bai)
+Xiangyun	-	w	ɔ̃	³³
+Ega.....	ŋ	-	u	²²
+==	==	==	==	==
+Xiangyun	w	ɔ̃	³³
+Ega.....	ŋ	u	²²
+
+"five",(evobench_134/Bai)
+Gongxing	ŋ	-	o	²²
+Lanping.	-	w	õ	⁴⁴
+==	==	==	==	==
+Gongxing	ŋ	o	²²
+Lanping.	w	õ	⁴⁴
+
+"five",(evobench_134/Bai)
+Tuoluo.	ŋ	-	ɤ	³³
+Lanping	-	w	õ	⁴⁴
+==	==	==	==	==
+Tuoluo.	ŋ	ɤ	³³
+Lanping	w	õ	⁴⁴
+
+"fly",(evobench_136/Bai)
+Zhoucheng	f	-	ɤ	³⁵
+Ega......	x	w	ɛ	⁵⁵
+==	==	==	==	==
+Zhoucheng	-	f	ɤ	³⁵
+Ega......	x	w	ɛ	⁵⁵
+
+"fly",(evobench_136/Bai)
+Ega.....	x	w	ɛ	⁵⁵
+Gongxing	p͡f	-	u	⁵⁵
+==	==	==	==	==
+Ega.....	x	w	ɛ	⁵⁵
+Gongxing	-	p͡f	u	⁵⁵
+
+"fly",(evobench_136/Bai)
+Enqi	f	-	ɛ	²⁴
+Ega.	x	w	ɛ	⁵⁵
+==	==	==	==	==
+Enqi	-	f	ɛ	²⁴
+Ega.	x	w	ɛ	⁵⁵
+
+"fly",(evobench_136/Bai)
+Ega......	x	w	ɛ	⁵⁵
+Mazhelong	p	-	i	⁵⁵
+==	==	==	==	==
+Ega......	x	w	ɛ	⁵⁵
+Mazhelong	-	p	i	⁵⁵
+
+"fly",(evobench_136/Bai)
+Ega.....	x	w	ɛ	⁵⁵
+Jianxing	f	-	ɤ	⁵⁵
+==	==	==	==	==
+Ega.....	x	w	ɛ	⁵⁵
+Jianxing	-	f	ɤ	⁵⁵
+
+"fly",(evobench_136/Bai)
+Jinman	f	-	i	⁵⁵
+Ega...	x	w	ɛ	⁵⁵
+==	==	==	==	==
+Jinman	-	f	i	⁵⁵
+Ega...	x	w	ɛ	⁵⁵
+
+"fragrant",(evobench_139/Bai)
+Dashi.	ɕ	o	-	ŋ	³⁵
+Heqing	ɕ	õ	w	-	⁵⁵
+==	==	==	==	==	==
+Dashi.	ɕ	o	ŋ	³⁵
+Heqing	ɕ	õ	w	⁵⁵
+
+"frog",(evobench_140/Bai)
+Eryuan	ɔ	³¹	m	ɛ	³⁵
+Jinman	õ	²¹	-	-	-
+==	==	==	==	==	==
+Eryuan	ɔ	³¹	m	ɛ	³⁵
+Jinman	-	-	-	õ	²¹
+
+"frog",(evobench_140/Bai)
+Ega......	-	-	-	õ	²¹	-	-	-	-	-	-
+Mazhelong	l	ɤ	⁴⁴	ɛ	³³	m	ɚ	⁵⁵	ʦ	i	³³
+==	==	==	==	==	==	==	==	==	==	==	==
+Ega......	-	-	-	-	-	-	-	-	-	õ	²¹
+Mazhelong	l	ɤ	⁴⁴	ɛ	³³	m	ɚ	⁵⁵	ʦ	i	³³
+
+"frog",(evobench_140/Bai)
+Jianxing	õ	²¹	-	-	-
+Heqing..	u	³¹	m	ɛ	³⁵
+==	==	==	==	==	==
+Jianxing	-	-	-	õ	²¹
+Heqing..	u	³¹	m	ɛ	³⁵
+
+"frog",(evobench_140/Bai)
+Gongxing	-	-	-	õ	¹²	-	-	-
+Lanping.	ʨʰ	ɛ	⁴⁴	ɔ̃	²¹	m	ɛ	⁵⁵
+==	==	==	==	==	==	==	==	==
+Gongxing	-	-	-	-	-	-	õ	¹²
+Lanping.	ʨʰ	ɛ	⁴⁴	ɔ̃	²¹	m	ɛ	⁵⁵
+
+"frog",(evobench_140/Bai)
+Eryuan	ɔ	³¹	m	ɛ	³⁵
+Enqi..	u	²¹	-	-	-
+==	==	==	==	==	==
+Eryuan	ɔ	³¹	m	ɛ	³⁵
+Enqi..	-	-	-	u	²¹
+
+"frog",(evobench_140/Bai)
+Gongxing	õ	¹²	-	-	-
+Heqing..	u	³¹	m	ɛ	³⁵
+==	==	==	==	==	==
+Gongxing	-	-	-	õ	¹²
+Heqing..	u	³¹	m	ɛ	³⁵
+
+"frog",(evobench_140/Bai)
+Lanping	ʨʰ	ɛ	⁴⁴	ɔ̃	-	²¹	m	ɛ	⁵⁵
+Tuoluo.	-	-	-	o	ŋ	⁵⁵	-	-	-
+==	==	==	==	==	==	==	==	==	==
+Lanping	ʨʰ	ɛ	⁴⁴	ɔ̃	²¹	m	ɛ	-	⁵⁵
+Tuoluo.	-	-	-	-	-	-	o	ŋ	⁵⁵
+
+"glutinous rice ",(evobench_144/Bai)
+Xiangyun.	x	ɛ	⁵⁵	-	-	-	-	-
+Mazhelong	s	ɯ	³³	s	ɯ	³³	m	ɛ
+==	==	==	==	==	==	==	==	==
+Xiangyun.	-	-	-	x	ɛ	⁵⁵	-	-
+Mazhelong	s	ɯ	³³	s	ɯ	³³	m	ɛ
+
+"barley",(evobench_146/Bai)
+Gongxing.	-	-	-	z	w	a	-	¹²
+Jianchuan	m	e	⁵⁵	s	-	o	w	²¹
+==	==	==	==	==	==	==	==	==
+Gongxing.	-	-	-	z	-	w	a	¹²
+Jianchuan	m	e	⁵⁵	s	o	w	-	²¹
+
+"barley",(evobench_146/Bai)
+Luobenzhuo	m	ɯ̃	⁵⁵	ʐ	w	a	-	³¹
+Jianxing..	-	-	-	s	-	o	w	²¹
+==	==	==	==	==	==	==	==	==
+Luobenzhuo	m	ɯ̃	⁵⁵	ʐ	-	w	a	³¹
+Jianxing..	-	-	-	s	o	w	-	²¹
+
+"to grind",(evobench_148/Bai)
+Qiliqiao..	-	w	e	³²	-	-	-
+Luobenzhuo	m	-	i	⁴²	p	ẽ	³³
+==	==	==	==	==	==	==	==
+Qiliqiao..	-	-	-	w	e	³²
+Luobenzhuo	m	i	⁴²	p	ẽ	³³
+
+"to grind",(evobench_148/Bai)
+Luobenzhuo	m	-	i	⁴²	p	ẽ	³³
+Eryuan....	ŋ	w	e	⁴²	-	-	-
+==	==	==	==	==	==	==	==
+Luobenzhuo	m	i	⁴²	-	p	ẽ	³³
+Eryuan....	-	-	-	ŋ	w	e	⁴²
+
+"to grind",(evobench_148/Bai)
+Xiangyun..	-	w	ẽ	⁴²	-	-	-
+Luobenzhuo	m	-	i	⁴²	p	ẽ	³³
+==	==	==	==	==	==	==	==
+Xiangyun..	-	-	-	w	ẽ	⁴²
+Luobenzhuo	m	i	⁴²	p	ẽ	³³
+
+"to grind",(evobench_148/Bai)
+Luobenzhuo	m	-	i	⁴²	p	ẽ	³³
+Heqing....	-	w	ɛ	⁴²	kʰ	a	⁴⁴
+==	==	==	==	==	==	==	==
+Luobenzhuo	m	i	⁴²	p	ẽ	³³
+Heqing....	w	ɛ	⁴²	kʰ	a	⁴⁴
+
+"to grind",(evobench_148/Bai)
+Luobenzhuo	m	-	i	⁴²	p	ẽ	³³
+Lanping...	-	w	ẽ	⁴²	kʰ	a	⁴⁴
+==	==	==	==	==	==	==	==
+Luobenzhuo	m	i	⁴²	p	ẽ	³³
+Lanping...	w	ẽ	⁴²	kʰ	a	⁴⁴
+
+"head",(evobench_151/Bai)
+Yunlong	d	ɯ	²¹	p	w	a	²¹
+Ega....	ʨ	u	²²	-	-	-	-
+==	==	==	==	==	==	==	==
+Yunlong	d	ɯ	²¹	p	w	a	²¹
+Ega....	-	-	-	-	ʨ	u	²²
+
+"to hide",(evobench_155/Bai)
+Gongxing	ʣ	o	-	ŋ	¹²
+Heqing..	ʦ	ɔ̃	w	-	²¹
+==	==	==	==	==	==
+Gongxing	ʣ	o	ŋ	¹²
+Heqing..	ʦ	ɔ̃	w	²¹
+
+"bed",(evobench_156/Bai)
+Luobenzhuo	ɴ̣	³³	t	ĩ	³³	ʧʰ	-	ʊ	-	³¹	qʰ	ã	⁴²
+Tuoluo....	-	-	-	-	-	d	j	o	ŋ	³⁵	-	-	-
+==	==	==	==	==	==	==	==	==	==	==	==	==	==
+Luobenzhuo	ɴ̣	³³	t	-	ĩ	-	³³	ʧʰ	ʊ	³¹	qʰ	ã	⁴²
+Tuoluo....	-	-	d	j	o	ŋ	³⁵	-	-	-	-	-	-
+
+"bed",(evobench_156/Bai)
+Enqi..	t	j	o	²¹
+Eryuan	t͡ʂ	-	ɔ	³¹
+==	==	==	==	==
+Enqi..	t	j	o	²¹
+Eryuan	-	t͡ʂ	ɔ	³¹
+
+"bed",(evobench_156/Bai)
+Tuoluo	d	j	o	ŋ	³⁵
+Eryuan	t͡ʂ	-	ɔ	-	³¹
+==	==	==	==	==	==
+Tuoluo	d	j	o	ŋ	³⁵
+Eryuan	-	t͡ʂ	ɔ	-	³¹
+
+"bed",(evobench_156/Bai)
+Luobenzhuo	ɴ̣	³³	t	ĩ	³³	ʧʰ	ʊ	-	³¹	qʰ	ã	⁴²
+Gongxing..	-	-	-	-	-	ʣ	o	ŋ	¹²	-	-	-
+==	==	==	==	==	==	==	==	==	==	==	==	==
+Luobenzhuo	ɴ̣	³³	t	ĩ	³³	ʧʰ	ʊ	³¹	qʰ	ã	-	⁴²
+Gongxing..	-	-	-	-	-	-	-	-	ʣ	o	ŋ	¹²
+
+"bed",(evobench_156/Bai)
+Tuoluo...	d	j	o	-	ŋ	³⁵
+Jianchuan	ʦ	-	õ	w	-	²¹
+==	==	==	==	==	==	==
+Tuoluo...	d	j	o	ŋ	³⁵
+Jianchuan	-	ʦ	õ	w	²¹
+
+"bed",(evobench_156/Bai)
+Luobenzhuo	ɴ̣	³³	t	ĩ	³³	ʧʰ	ʊ	-	³¹	qʰ	ã	⁴²
+Heqing....	-	-	-	-	-	ʦ	ɔ̃	w	²¹	-	-	-
+==	==	==	==	==	==	==	==	==	==	==	==	==
+Luobenzhuo	ɴ̣	³³	t	ĩ	³³	ʧʰ	ʊ	³¹	qʰ	ã	-	⁴²
+Heqing....	-	-	-	-	-	-	-	-	ʦ	ɔ̃	w	²¹
+
+"hot",(evobench_161/Bai)
+Jianchuan	-	w	ẽ	⁵⁵
+Jinman...	ɲ	-	i	⁴⁴
+==	==	==	==	==
+Jianchuan	w	ẽ	⁵⁵
+Jinman...	ɲ	i	⁴⁴
+
+"hot",(evobench_161/Bai)
+Yunlong.	-	w	ɛ	³³
+Gongxing	ɲ	-	i	²⁴
+==	==	==	==	==
+Yunlong.	w	ɛ	³³
+Gongxing	ɲ	i	²⁴
+
+"hot",(evobench_161/Bai)
+Gongxing	-	-	ɲ	-	i	²⁴
+Lanping.	ɯ	⁴²	-	j	ɛ̃	⁴⁴
+==	==	==	==	==	==	==
+Gongxing	-	-	ɲ	i	²⁴
+Lanping.	ɯ	⁴²	j	ɛ̃	⁴⁴
+
+"hot",(evobench_161/Bai)
+Luobenzhuo	ɲ	-	i	⁵⁵
+Xiangyun..	-	w	ẽ	³⁵
+==	==	==	==	==
+Luobenzhuo	ɲ	i	⁵⁵
+Xiangyun..	w	ẽ	³⁵
+
+"hot",(evobench_161/Bai)
+Ega....	ɲ	-	i	⁴⁴
+Yunlong	-	w	ɛ	³³
+==	==	==	==	==
+Ega....	ɲ	i	⁴⁴
+Yunlong	w	ɛ	³³
+
+"house",(evobench_162/Bai)
+Lanping	x	o	³¹	k	j	ɛ̃	⁵⁵
+Tuoluo.	h	ɔ	²¹	-	-	-	-
+==	==	==	==	==	==	==	==
+Lanping	x	o	³¹	k	j	ɛ̃	⁵⁵
+Tuoluo.	-	-	-	-	h	ɔ	²¹
+
+"house",(evobench_162/Bai)
+Lanping.	x	o	³¹	k	j	ɛ̃	⁵⁵
+Gongxing	h	a	⁴²	-	-	-	-
+==	==	==	==	==	==	==	==
+Lanping.	x	o	³¹	k	j	ɛ̃	⁵⁵
+Gongxing	-	-	-	-	h	a	⁴²
+
+"yesterday",(evobench_639/Sinitic)
+Lanzhou..	ʦ	uə	-	⁵³	k	ə	¹³	tʰ	iɛ̃	n	³¹
+Huhehaote	ʦ	ua	ʔ	⁴³	-	-	-	tʰ	ie	-	³¹
+==	==	==	==	==	==	==	==	==	==	==	==
+Lanzhou..	ʦ	uə	⁵³	k	ə	-	¹³	tʰ	iɛ̃	n	³¹
+Huhehaote	-	-	-	ʦ	ua	ʔ	⁴³	tʰ	ie	-	³¹
+
+"moon",(evobench_641/Sinitic)
+Haikou.	v	ue	³³	-	-	-	-
+Guiyang	-	iɛ	²¹	l	ia	ŋ	²¹³
+==	==	==	==	==	==	==	==
+Haikou.	-	-	v	ue	-	³³
+Guiyang	iɛ	²¹	l	ia	ŋ	²¹³
+
+"moon",(evobench_641/Sinitic)
+Fuzhou..	ŋ	uo	ʔ	⁵	-	-	-	-
+Changsha	-	ye	-	²⁴	l	ia	n	¹¹
+==	==	==	==	==	==	==	==	==
+Fuzhou..	-	-	ŋ	uo	ʔ	⁵
+Changsha	ye	²⁴	l	ia	n	¹¹
+
+"moon",(evobench_641/Sinitic)
+Xiangtan	-	yæ	²⁴	n	ia	n	⁵⁵
+Haikou..	v	ue	³³	-	-	-	-
+==	==	==	==	==	==	==	==
+Xiangtan	yæ	²⁴	n	ia	n	⁵⁵
+Haikou..	-	-	v	ue	-	³³
+
+"moon",(evobench_641/Sinitic)
+Xiamen..	g	e	ʔ	⁵	-	-	-
+Wulumuqi	-	yɤ	-	²¹³	l	iɑ	ŋ
+==	==	==	==	==	==	==	==
+Xiamen..	-	-	g	e	ʔ	⁵
+Wulumuqi	yɤ	²¹³	l	iɑ	ŋ	-
+
+"moon",(evobench_641/Sinitic)
+Shantou.	g	ue	ʔ	⁵	-	-	-	-	-	-	-	-	-	-
+Changsha	-	ye	-	²⁴	l	ia	n	⁵⁵	p	u	¹³	s	a	²⁴
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+Shantou.	-	-	g	ue	ʔ	⁵	-	-	-	-	-	-
+Changsha	ye	²⁴	l	ia	n	⁵⁵	p	u	¹³	s	a	²⁴
+
+"moon",(evobench_641/Sinitic)
+Haikou..	v	ue	³³	n	io	-	³¹	-	-	-	-	-	-
+Changsha	-	ye	²⁴	l	ia	n	⁵⁵	p	u	¹³	s	a	²⁴
+==	==	==	==	==	==	==	==	==	==	==	==	==	==
+Haikou..	-	-	-	-	-	-	v	ue	³³	n	io	³¹
+Changsha	ye	²⁴	l	ia	n	⁵⁵	p	u	¹³	s	a	²⁴
+
+"moon",(evobench_641/Sinitic)
+Xiamen..	g	e	ʔ	⁵	-	-	-	-	-	-	-	-	-
+Changsha	-	ye	-	²⁴	l	ia	n	⁵⁵	p	a	³³	p	a
+==	==	==	==	==	==	==	==	==	==	==	==	==	==
+Xiamen..	-	-	g	e	ʔ	⁵	-	-	-	-	-
+Changsha	ye	²⁴	l	ia	n	⁵⁵	p	a	³³	p	a
+
+"to catch a cold",(evobench_654/Sinitic)
+Xining	k	ã	-	⁵³	m	ɔ	²¹³	l	iɔ	⁵³
+Taibei	k	a	m	⁵³	b	ɔ̃	³³	-	-	-
+==	==	==	==	==	==	==	==	==	==	==
+Xining	k	ã	-	⁵³	m	ɔ	²¹³	l	iɔ	⁵³
+Taibei	k	a	m	⁵³	-	-	-	b	ɔ̃	³³
+
+"bee",(evobench_77/Bai)
+Luobenzhuo	ʨ	ɛ̃	⁵⁵	ɴ̥	-	ɴ̣	⁵⁵
+Enqi......	-	-	-	f	o	-	²⁴
+==	==	==	==	==	==	==	==
+Luobenzhuo	ʨ	ɛ̃	⁵⁵	ɴ̥	ɴ̣	⁵⁵
+Enqi......	f	o	²⁴	-	-	-
+
+"bee",(evobench_77/Bai)
+Jianchuan.	-	-	-	f	ɤ̃	-	⁵⁵
+Luobenzhuo	ʨ	ɛ̃	⁵⁵	ɴ̥	-	ɴ̣	⁵⁵
+==	==	==	==	==	==	==	==
+Jianchuan.	f	ɤ̃	⁵⁵	-	-	-
+Luobenzhuo	ʨ	ɛ̃	⁵⁵	ɴ̥	ɴ̣	⁵⁵
+
+"bee",(evobench_77/Bai)
+Luobenzhuo	ʨ	ɛ̃	⁵⁵	ɴ̥	-	ɴ̣	⁵⁵
+Zhoucheng.	-	-	-	f	ɤ	-	⁵⁵
+==	==	==	==	==	==	==	==
+Luobenzhuo	ʨ	ɛ̃	⁵⁵	ɴ̥	ɴ̣	⁵⁵
+Zhoucheng.	f	ɤ	⁵⁵	-	-	-
+
+"bee",(evobench_77/Bai)
+Lanping...	-	-	-	f	ɯ̃	-	⁵⁵
+Luobenzhuo	ʨ	ɛ̃	⁵⁵	ɴ̥	-	ɴ̣	⁵⁵
+==	==	==	==	==	==	==	==
+Lanping...	f	ɯ̃	⁵⁵	-	-	-
+Luobenzhuo	ʨ	ɛ̃	⁵⁵	ɴ̥	ɴ̣	⁵⁵
+
+"bee",(evobench_77/Bai)
+Tuoluo....	-	-	-	f	ɚ̃	-	⁵⁵
+Luobenzhuo	ʨ	ɛ̃	⁵⁵	ɴ̥	-	ɴ̣	⁵⁵
+==	==	==	==	==	==	==	==
+Tuoluo....	f	ɚ̃	⁵⁵	-	-	-
+Luobenzhuo	ʨ	ɛ̃	⁵⁵	ɴ̥	ɴ̣	⁵⁵
+
+"intestine, gut",(evobench_78/Bai)
+Tuoluo.	d	-	ɤ	³⁵
+Yunlong	ʦ	w	a	²¹
+==	==	==	==	==
+Tuoluo.	-	d	ɤ	³⁵
+Yunlong	ʦ	w	a	²¹
+
+"intestine, gut",(evobench_78/Bai)
+Dashi.	t͡ʂ	o	-	ŋ	²¹
+Heqing	ʦ	ɔ̃	w	-	²¹
+==	==	==	==	==	==
+Dashi.	t͡ʂ	o	ŋ	²¹
+Heqing	ʦ	ɔ̃	w	²¹
+
+"intestine, gut",(evobench_78/Bai)
+Dashi	t͡ʂ	o	-	ŋ	²¹
+Ega..	ʣ	ɨ	w	-	²¹
+==	==	==	==	==	==
+Dashi	t͡ʂ	o	ŋ	²¹
+Ega..	ʣ	ɨ	w	²¹
+
+"to itch",(evobench_79/Bai)
+Zhoucheng	j	o	w	-	⁴⁴
+Tuoluo...	j	ɤ	-	ŋ	³³
+==	==	==	==	==	==
+Zhoucheng	j	o	w	⁴⁴
+Tuoluo...	j	ɤ	ŋ	³³
+
+"big",(evobench_81/Bai)
+Jianchuan.	t	-	o	w	⁴²
+Luobenzhuo	ʈ	w	a	-	⁴⁴
+==	==	==	==	==	==
+Jianchuan.	t	o	w	-	⁴²
+Luobenzhuo	ʈ	-	w	a	⁴⁴
+
+"big",(evobench_81/Bai)
+Jianxing	t	-	o	w	⁴²
+Yunlong.	d	w	a	-	³¹
+==	==	==	==	==	==
+Jianxing	t	o	w	-	⁴²
+Yunlong.	d	-	w	a	³¹
+
+"big",(evobench_81/Bai)
+Xiangyun	t	-	ɔ	w	²¹
+Yunlong.	d	w	a	-	³¹
+==	==	==	==	==	==
+Xiangyun	t	ɔ	w	-	²¹
+Yunlong.	d	-	w	a	³¹
+
+"bird",(evobench_82/Bai)
+Luobenzhuo	ʦ	w	ɔ	-	⁵⁵	-	-	-
+Jianchuan.	ʦ	-	o	w	⁴⁴	ʦ	ɿ	³³
+==	==	==	==	==	==	==	==	==
+Luobenzhuo	ʦ	-	w	ɔ	⁵⁵	-	-	-
+Jianchuan.	ʦ	o	w	-	⁴⁴	ʦ	ɿ	³³
+
+"bird",(evobench_82/Bai)
+Enqi..	ʦ	u	-	⁵⁵	-	-	-
+Heqing	ʦ	o	w	⁴⁴	ʦ	ɿ	³³
+==	==	==	==	==	==	==	==
+Enqi..	-	-	-	-	ʦ	u	⁵⁵
+Heqing	ʦ	o	w	⁴⁴	ʦ	ɿ	³³
+
+"bird",(evobench_82/Bai)
+Lanping.	ʦ	u	-	⁵⁵	ʦ	ɿ	⁵⁵
+Jianxing	ʦ	o	w	⁴⁴	-	-	-
+==	==	==	==	==	==	==	==
+Lanping.	ʦ	u	⁵⁵	ʦ	ɿ	-	⁵⁵
+Jianxing	-	-	-	ʦ	o	w	⁴⁴
+
+"bird",(evobench_82/Bai)
+Gongxing	ʦ	u	-	²⁴	-	-	-
+Heqing..	ʦ	o	w	⁴⁴	ʦ	ɿ	³³
+==	==	==	==	==	==	==	==
+Gongxing	-	-	-	-	ʦ	u	²⁴
+Heqing..	ʦ	o	w	⁴⁴	ʦ	ɿ	³³
+
+"bird",(evobench_82/Bai)
+Eryuan...	ʦ	ɔ	-	⁵⁵	-	-	-
+Jianchuan	ʦ	o	w	⁴⁴	ʦ	ɿ	³³
+==	==	==	==	==	==	==	==
+Eryuan...	-	-	-	-	ʦ	ɔ	⁵⁵
+Jianchuan	ʦ	o	w	⁴⁴	ʦ	ɿ	³³
+
+"bird",(evobench_82/Bai)
+Tuoluo...	ʦ	u	-	⁴²	-	-	-
+Jianchuan	ʦ	o	w	⁴⁴	ʦ	ɿ	³³
+==	==	==	==	==	==	==	==
+Tuoluo...	-	-	-	-	ʦ	u	⁴²
+Jianchuan	ʦ	o	w	⁴⁴	ʦ	ɿ	³³
+
+"bird",(evobench_82/Bai)
+Lanping	ʦ	u	-	⁵⁵	ʦ	ɿ	⁵⁵
+Dashi..	ʦ	o	w	³³	-	-	-
+==	==	==	==	==	==	==	==
+Lanping	ʦ	u	⁵⁵	ʦ	ɿ	-	⁵⁵
+Dashi..	-	-	-	ʦ	o	w	³³
+
+"bird",(evobench_82/Bai)
+Lanping.	ʦ	u	⁵⁵	ʦ	ɿ	⁵⁵
+Xiangyun	ʦ	ɔ	⁴⁴	-	-	-
+==	==	==	==	==	==	==
+Lanping.	ʦ	u	⁵⁵	ʦ	ɿ	⁵⁵
+Xiangyun	-	-	-	ʦ	ɔ	⁴⁴
+
+"bird",(evobench_82/Bai)
+Lanping..	ʦ	u	⁵⁵	ʦ	ɿ	⁵⁵
+Mazhelong	ʦ	o	⁴⁴	-	-	-
+==	==	==	==	==	==	==
+Lanping..	ʦ	u	⁵⁵	ʦ	ɿ	⁵⁵
+Mazhelong	-	-	-	ʦ	o	⁴⁴
+
+"bird",(evobench_82/Bai)
+Luobenzhuo	ʦ	w	ɔ	-	⁵⁵
+Dashi.....	ʦ	-	o	w	³³
+==	==	==	==	==	==
+Luobenzhuo	ʦ	-	w	ɔ	⁵⁵
+Dashi.....	ʦ	o	w	-	³³
+
+"bitter",(evobench_83/Bai)
+Mazhelong	kʰ	u	³³	kʰ	ǝ	w	³³
+Gongxing.	qʰ	u	²²	-	-	-	-
+==	==	==	==	==	==	==	==
+Mazhelong	kʰ	u	³³	kʰ	ǝ	w	³³
+Gongxing.	-	-	-	qʰ	u	-	²²
+
+"bitter",(evobench_83/Bai)
+Luobenzhuo	qʰ	ɤ	³³	-	-	-	-
+Mazhelong.	kʰ	u	³³	kʰ	ǝ	w	³³
+==	==	==	==	==	==	==	==
+Luobenzhuo	-	-	-	qʰ	ɤ	-	³³
+Mazhelong.	kʰ	u	³³	kʰ	ǝ	w	³³
+
+"bitter",(evobench_83/Bai)
+Tuoluo...	qʰ	o	³³	-	-	-	-
+Mazhelong	kʰ	u	³³	kʰ	ǝ	w	³³
+==	==	==	==	==	==	==	==
+Tuoluo...	-	-	-	qʰ	o	-	³³
+Mazhelong	kʰ	u	³³	kʰ	ǝ	w	³³
+
+"bitter",(evobench_83/Bai)
+Mazhelong	kʰ	u	³³	kʰ	ǝ	w	³³
+Zhoucheng	kʰ	u	³¹	-	-	-	-
+==	==	==	==	==	==	==	==
+Mazhelong	kʰ	u	³³	kʰ	ǝ	w	³³
+Zhoucheng	-	-	-	kʰ	u	-	³¹
+
+"bitter",(evobench_83/Bai)
+Lanping..	kʰ	u	⁴⁴	-	-	-	-
+Mazhelong	kʰ	u	³³	kʰ	ǝ	w	³³
+==	==	==	==	==	==	==	==
+Lanping..	-	-	-	kʰ	u	-	⁴⁴
+Mazhelong	kʰ	u	³³	kʰ	ǝ	w	³³
+
+"ant",(evobench_88/Bai)
+Tuoluo.	ʨ	j	e	n	⁵⁵	-	-	-	-	-	-	-
+Lanping	p	-	i	-	³³	p	w	a	³³	ʦ	ɿ	⁴⁴
+==	==	==	==	==	==	==	==	==	==	==	==	==
+Tuoluo.	-	-	-	-	-	-	-	ʨ	j	e	n	⁵⁵
+Lanping	p	i	³³	p	w	a	³³	ʦ	-	ɿ	-	⁴⁴
+
+"ant",(evobench_88/Bai)
+Tuoluo	ʨ	j	e	n	⁵⁵	-	-	-
+Dashi.	p	-	i	-	²¹	p	o	²¹
+==	==	==	==	==	==	==	==	==
+Tuoluo	-	-	-	ʨ	j	e	n	⁵⁵
+Dashi.	p	i	²¹	-	p	o	-	²¹
+
+"ant",(evobench_88/Bai)
+Tuoluo	ʨ	j	e	n	⁵⁵	-	-	-
+Eryuan	p	-	i	-	²¹	p	ɯ	³¹
+==	==	==	==	==	==	==	==	==
+Tuoluo	-	-	-	ʨ	j	e	n	⁵⁵
+Eryuan	p	i	²¹	-	p	ɯ	-	³¹
+
+"ant",(evobench_88/Bai)
+Tuoluo...	ʨ	j	e	n	⁵⁵	-	-	-
+Zhoucheng	p	-	i	-	²¹	p	ɯ	²¹
+==	==	==	==	==	==	==	==	==
+Tuoluo...	-	-	-	ʨ	j	e	n	⁵⁵
+Zhoucheng	p	i	²¹	-	p	ɯ	-	²¹
+
+"bone",(evobench_89/Bai)
+Tuoluo....	k	-	u	⁴²	-	-	-
+Luobenzhuo	q	w	a	⁵⁵	ʦ	ɛ	⁴⁴
+==	==	==	==	==	==	==	==
+Tuoluo....	-	-	-	-	k	u	⁴²
+Luobenzhuo	q	w	a	⁵⁵	ʦ	ɛ	⁴⁴
+
+"bone",(evobench_89/Bai)
+Tuoluo.	k	-	u	⁴²	-	-	-
+Lanping	k	w	a	⁴⁴	ʦ	e	⁴⁴
+==	==	==	==	==	==	==	==
+Tuoluo.	-	-	-	-	k	u	⁴²
+Lanping	k	w	a	⁴⁴	ʦ	e	⁴⁴
+
+"breast ",(evobench_90/Bai)
+Gongxing	b	a	²¹	-	-	-
+Lanping.	p	a	⁴²	p	e	⁵⁵
+==	==	==	==	==	==	==
+Gongxing	-	-	-	b	a	²¹
+Lanping.	p	a	⁴²	p	e	⁵⁵
+
+"breast ",(evobench_90/Bai)
+Tuoluo.	b	o	⁴²	-	-	-
+Lanping	p	a	⁴²	p	e	⁵⁵
+==	==	==	==	==	==	==
+Tuoluo.	-	-	-	b	o	⁴²
+Lanping	p	a	⁴²	p	e	⁵⁵
+
+"chopsticks",(evobench_97/Bai)
+Tuoluo..	ʐ	-	ɤ	²¹
+Gongxing	d͡ʐ	w	a	⁴²
+==	==	==	==	==
+Tuoluo..	-	ʐ	ɤ	²¹
+Gongxing	d͡ʐ	w	a	⁴²
+
+"classifier (grain of rice)",(evobench_99/Bai)
+Gongxing	qʰ	-	o	²²	-	-	-
+Xiangyun	kʰ	w	ɔ	³³	k	ɯ	⁴²
+==	==	==	==	==	==	==	==
+Gongxing	-	-	-	-	qʰ	o	²²
+Xiangyun	kʰ	w	ɔ	³³	k	ɯ	⁴²
+
+"classifier (grain of rice)",(evobench_99/Bai)
+Luobenzhuo	qʰ	-	ɔ	³¹	-	-	-
+Xiangyun..	kʰ	w	ɔ	³³	k	ɯ	⁴²
+==	==	==	==	==	==	==	==
+Luobenzhuo	-	-	-	-	qʰ	ɔ	³¹
+Xiangyun..	kʰ	w	ɔ	³³	k	ɯ	⁴²
+

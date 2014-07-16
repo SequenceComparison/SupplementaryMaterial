@@ -1,0 +1,353 @@
+ID	Language	Gloss	GlossID	IDS_ID	Ortho	IPA	CogID
+25	German	the mountain or hill	557	1.22	Berg	bɛrk	1669
+26	German	the mountain or hill	557	1.22	Hügel	hyːɡəl	1671
+27	French	the mountain or hill	557	1.22	montagne	mɔ̃taɲ	1670
+28	French	the mountain or hill	557	1.22	colline	kɔlin	1672
+29	Dutch	the mountain or hill	557	1.22	berg	bɛrx	1669
+30	Dutch	the mountain or hill	557	1.22	heuvel	høːvəl	1671
+31	English	the mountain or hill	557	1.22	mountain	maʊntɪn	-1670
+32	English	the mountain or hill	557	1.22	hill	hɪl	1671
+62	German	the water	341	1.31	Wasser	vasər	1025
+63	French	the water	341	1.31	eau	o	1026
+64	Dutch	the water	341	1.31	water	waːtər	1025
+65	English	the water	341	1.31	water	wɔːtər	1025
+90	German	the lake	343	1.33	See	zeː	1029
+91	French	the lake	343	1.33	lac	lak	1030
+92	Dutch	the lake	343	1.33	meer	meːr	1031
+93	English	the lake	343	1.33	lake	leɪk	-1030
+166	German	the earthquake	137	1.45	Erdbeben	eːrt#beːbən	420
+167	French	the earthquake	137	1.45	séisme	seism	422
+168	Dutch	the earthquake	137	1.45	aardbeving	aːrd#beːvɪŋ	420
+169	English	the earthquake	137	1.45	earthquake	ɜːθ#kweɪk	421
+199	German	the light	461	1.61	licht	lɪxt	1375
+200	German	the light	461	1.61	Beleuchtung	bə#lɔyx#tʊŋ	1377
+201	French	the light	461	1.61	lumière	lymjɛʀ	1375
+202	Dutch	the light	461	1.61	licht	lɪxt	1375
+203	English	the light	461	1.61	light	laɪt	1375
+210	German	the shade or shadow	459	1.63	schatten	ʃatən	1368
+211	French	the shade or shadow	459	1.63	ombre	ɔ̃bʀ	1369
+212	Dutch	the shade or shadow	459	1.63	schaduw	sxaːdyːw	1368
+213	English	the shade or shadow	459	1.63	shadow	ʃædəʊ	1368
+214	English	the shade or shadow	459	1.63	shade	ʃeɪd	1368
+256	German	to light	405	1.86	anzünden	an#ʦʏndən	1219
+257	German	to light	405	1.86	anstecken	an#ʃtɛkən	1222
+258	French	to light	405	1.86	allumer	a#lyme	1221
+259	French	to light	405	1.86	enflammer	ɑ̃#flame	6008
+260	Dutch	to light	405	1.86	aansteken	aːn#steːkə	1222
+261	English	to light	405	1.86	light	laɪt	1220
+334	German	the divorce	296	2.341	Ehescheidung	eː.ə#ʃaidʊŋ	892
+335	German	the divorce	296	2.341	Scheidung	ʃaidʊŋ	892
+336	French	the divorce	296	2.341	divorce	divɔʀs	893
+337	Dutch	the divorce	296	2.341	scheiding	sxɛɪdɪŋ	892
+338	English	the divorce	296	2.341	divorce	dɪvɔːs	-893
+339	German	the father	240	2.35	Vater	faːtər	719
+340	French	the father	240	2.35	père	pɛʀ	721
+341	Dutch	the father	240	2.35	vader	vaːdər	719
+342	English	the father	240	2.35	father	fɑːðər	719
+343	German	the mother	242	2.36	Mutter	mʊtər	726
+344	French	the mother	242	2.36	mère	mɛʀ	726
+345	Dutch	the mother	242	2.36	moeder	muːdər	726
+346	English	the mother	242	2.36	mother	mʌðər	726
+347	German	the son	449	2.41	Sohn	zoːn	1341
+348	French	the son	449	2.41	fils	fis	1342
+349	Dutch	the son	449	2.41	zoon	zoːn	1341
+350	English	the son	449	2.41	son	sʌn	1341
+379	German	the aunt	669	2.52	Tante	tantə	-2027
+380	French	the aunt	669	2.52	tante	tɑ̃t	2027
+381	Dutch	the aunt	669	2.52	tante	tɑntə	-2027
+382	English	the aunt	669	2.52	aunt	ɑːnt	-2027
+383	German	the nephew	668	2.53	Neffe	nɛfə	-2026
+384	French	the nephew	668	2.53	neveu	nəvø	2026
+385	Dutch	the nephew	668	2.53	neef	neːf	-2026
+386	English	the nephew	668	2.53	nephew	nɛvjuː	-2026
+401	German	the mother-in-law (of a man)	133	2.62	Schwiegermutter	ʃviːɡər#mʊtər	406
+402	French	the mother-in-law (of a man)	133	2.62	belle-mère	bɛl#mɛʀ	406
+403	Dutch	the mother-in-law (of a man)	133	2.62	schoonmoeder	sxoːn#muːdər	406
+404	English	the mother-in-law (of a man)	133	2.62	mother-in-law	mʌðər#ɪn#lɔː	406
+449	German	you (plural)	350	2.95	ihr	iːr	1055
+450	German	you (plural)	350	2.95	Sie	ziː	1058
+451	French	you (plural)	350	2.95	vous	vu	1057
+452	Dutch	you (plural)	350	2.95	jullie	jʉliː	6011
+453	English	you (plural)	350	2.95	you	juː	1056
+524	German	the stallion	167	3.42	Hengst	hɛŋst	514
+525	French	the stallion	167	3.42	étalon	etalɔ̃	515
+526	Dutch	the stallion	167	3.42	hengst	hɛŋst	514
+527	English	the stallion	167	3.42	stallion	stæljən	-515
+538	German	the mule	231	3.47	Maultier	maul#tiːr	693
+539	German	the mule	231	3.47	Maulesel	maul#eːzəl	693
+540	French	the mule	231	3.47	mulet	mylɛ	693
+541	Dutch	the mule	231	3.47	muilezel	mœyl#eːzəl	693
+542	Dutch	the mule	231	3.47	muildier	mœyl#diːr	693
+543	English	the mule	231	3.47	mule	mjuːl	693
+553	German	the chicken	706	3.55	Huhn	huːn	2143
+554	German	the chicken	706	3.55	Hühnchen	hyːn#xən	2143
+556	French	the chicken	706	3.55	poulet	pulɛ	2145
+557	Dutch	the chicken	706	3.55	kuiken	kœykə	2144
+558	English	the chicken	706	3.55	chicken	ʧɪkɪn	2144
+563	German	the nest	720	3.58	Nest	nɛst	2179
+564	French	the nest	720	3.58	nid	ni	2179
+565	Dutch	the nest	720	3.58	nest	nɛst	2179
+566	English	the nest	720	3.58	nest	nɛst	2179
+567	German	the bird	57	3.581	Vogel	foːɡəl	166
+568	French	the bird	57	3.581	oiseau	wazo	168
+569	Dutch	the bird	57	3.581	vogel	voːɣəl	166
+570	English	the bird	57	3.581	bird	bɜːd	167
+571	German	the heron	58	3.583	Reiher	raiər	169
+572	French	the heron	58	3.583	héron	eʀɔ̃	171
+573	Dutch	the heron	58	3.583	reiger	rɛɪɣər	169
+574	English	the heron	58	3.583	heron	hɛrən	-171
+583	German	the vulture	56	3.586	Geier	ɡaiər	164
+584	French	the vulture	56	3.586	vautour	votuʀ	165
+585	Dutch	the vulture	56	3.586	gier	xiːr	164
+586	English	the vulture	56	3.586	vulture	vʌlʧər	-165
+626	German	the shark	425	3.661	Hai	hai	1274
+628	French	the shark	425	3.661	requin	ʀəkɛ̃	1276
+629	Dutch	the shark	425	3.661	haai	haːj	1274
+630	English	the shark	425	3.661	shark	ʃɑːk	1275
+663	German	the head louse	438	3.811	Laus	laus	1309
+664	French	the head louse	438	3.811	pou	pu	1310
+665	Dutch	the head louse	438	3.811	luis	lœys	1309
+666	Dutch	the head louse	438	3.811	hoofdluis	hoːvd#lœys	1309
+667	English	the head louse	438	3.811	louse	laʊs	1309
+757	German	the vein or artery	340	4.151	Ader	aːdər	1024
+759	French	the vein or artery	340	4.151	veine	vɛn	1022
+761	Dutch	the vein or artery	340	4.151	bloedvat	bluːtfɑt	1023
+762	Dutch	the vein or artery	340	4.151	ader	aːdər	1024
+763	English	the vein or artery	340	4.151	vein	veɪn	-1022
+764	English	the vein or artery	340	4.151	artery	ɑːtərɪ	6016
+782	German	the back	604	4.19	rücken	rʏkən	1821
+783	French	the back	604	4.19	dos	do	1823
+784	Dutch	the back	604	4.19	rug	rʉx	1821
+785	English	the back	604	4.19	back	bæk	1822
+825	German	the nose	740	4.23	Nase	naːzə	2241
+826	French	the nose	740	4.23	nez	nɛ	2241
+827	Dutch	the nose	740	4.23	neus	nøːs	2241
+828	English	the nose	740	4.23	nose	nəʊz	2241
+838	German	the mouth	741	4.24	Mund	mʊnt	2242
+839	French	the mouth	741	4.24	bouche	buʃ	2243
+840	Dutch	the mouth	741	4.24	mond	mɔnt	2242
+841	English	the mouth	741	4.24	mouth	maʊð	2242
+867	German	the armpit	186	4.312	Achselhöhle	aksəl#hɶːlə	575
+868	French	the armpit	186	4.312	aisselle	ɛsɛl	575
+869	Dutch	the armpit	186	4.312	oksel	ɔksəl	575
+870	English	the armpit	186	4.312	armpit	ɑːm#pɪt	574
+871	German	the elbow	198	4.32	Ellenbogen	ɛlən#boːɡən	603
+872	French	the elbow	198	4.32	coude	kud	604
+873	Dutch	the elbow	198	4.32	elleboog	ɛlə#boːx	603
+874	English	the elbow	198	4.32	elbow	ɛl#bəʊ	603
+883	German	the finger	203	4.34	Finger	fɪŋər	615
+884	French	the finger	203	4.34	doigt	dwa	616
+885	Dutch	the finger	203	4.34	vinger	vɪŋər	615
+886	English	the finger	203	4.34	finger	fɪŋɡər	615
+951	German	the liver	316	4.45	Leber	leːbər	947
+952	French	the liver	316	4.45	foie	fwa	948
+953	Dutch	the liver	316	4.45	lever	leːvər	947
+954	English	the liver	316	4.45	liver	lɪvər	947
+1013	German	to vomit	513	4.57	erbrechen	ɛr#brɛxən	1542
+1014	German	to vomit	513	4.57	kotzen	kɔʦən	1544
+1015	French	to vomit	513	4.57	vomir	vɔmiʀ	1543
+1016	Dutch	to vomit	513	4.57	braken	braːkə	1542
+1017	English	to vomit	513	4.57	vomit	vɔmɪt	-1543
+1018	English	to vomit	513	4.57	puke	pjuːk	1545
+1019	German	to lick	510	4.59	lecken	lɛkən	1534
+1020	French	to lick	510	4.59	lécher	leʃe	1534
+1021	Dutch	to lick	510	4.59	likken	lɪkə	1534
+1022	English	to lick	510	4.59	lick	lɪk	1534
+1084	German	the grave	623	4.79	Grab	ɡraːp	1885
+1086	French	the grave	623	4.79	tombeau	tɔ̃bo	1886
+1087	Dutch	the grave	623	4.79	graf	xrɑf	1885
+1088	English	the grave	623	4.79	grave	ɡrɑːv	1885
+1121	German	the wound or sore	628	4.85	Wunde	vʊndə	1903
+1122	French	the wound or sore	628	4.85	blessure	blesyʀ	1904
+1123	French	the wound or sore	628	4.85	plaie	plɛ	1904
+1124	Dutch	the wound or sore	628	4.85	wond	wɔnt	1903
+1125	English	the wound or sore	628	4.85	wound	waʊnd	1903
+1126	English	the wound or sore	628	4.85	sore	sɔːr	1905
+1145	German	the boil	173	4.856	Furunkel	fuːrʊŋkəl	-533
+1146	French	the boil	173	4.856	furoncle	fyʀɔ̃kl	533
+1147	Dutch	the boil	173	4.856	steenpuist	steːmpœyst	535
+1148	English	the boil	173	4.856	boil	bɔɪl	534
+1173	German	lazy	90	4.92	faul	faul	270
+1174	German	lazy	90	4.92	lässig	lɛsɪx	271
+1175	French	lazy	90	4.92	paresseux	paʀɛsø	272
+1176	Dutch	lazy	90	4.92	lui	lœy	273
+1177	English	lazy	90	4.92	lazy	leɪzɪ	271
+1255	German	the pot	660	5.26	Topf	tɔp͡f	2005
+1257	French	the pot	660	5.26	casserole	kasʀɔl	2007
+1258	French	the pot	660	5.26	marmite	maʀmit	2008
+1259	Dutch	the pot	660	5.26	pot	pɔt	2006
+1260	English	the pot	660	5.26	pot	pɔt	2006
+1316	German	to peel	421	5.46	schälen	ʃɛːlən	1264
+1317	French	to peel	421	5.46	peler	pəle	1265
+1318	French	to peel	421	5.46	éplucher	eplyʃe	1266
+1319	Dutch	to peel	421	5.46	pellen	pɛlə	1265
+1320	Dutch	to peel	421	5.46	schillen	sxɪlə	1264
+1321	English	to peel	421	5.46	peel	piːl	1265
+1347	German	the meat	9	5.61	Fleisch	flaiʃ	27
+1348	French	the meat	9	5.61	viande	vjɑ̃d	29
+1349	Dutch	the meat	9	5.61	vlees	vleːs	27
+1350	English	the meat	9	5.61	meat	miːt	28
+1416	German	the cloth	758	6.21	Stoff	ʃtɔf	-2290
+1417	French	the cloth	758	6.21	étoffe	etɔf	2290
+1418	French	the cloth	758	6.21	tissu	tisy	2292
+1419	Dutch	the cloth	758	6.21	stof	stɔf	-2290
+1420	English	the cloth	758	6.21	cloth	klɔθ	2291
+1439	German	the leather	759	6.29	Leder	leːdər	2293
+1440	French	the leather	759	6.29	cuir	kɥiʀ	2294
+1441	Dutch	the leather	759	6.29	leer	leːr	2293
+1442	English	the leather	759	6.29	leather	lɛðər	2293
+1474	German	the boot	394	6.52	Stiefel	ʃtiːfəl	1190
+1475	French	the boot	394	6.52	botte	bɔt	1191
+1476	Dutch	the boot	394	6.52	laars	laːrs	1192
+1477	English	the boot	394	6.52	boot	-buːt	1191
+1504	German	the pin	597	6.63	Stecknadel	ʃtɛk#naːdəl	1801
+1505	French	the pin	597	6.63	épingle	epɛ̃ɡl	1803
+1506	Dutch	the pin	597	6.63	speld	spɛlt	1804
+1507	English	the pin	597	6.63	pin	pɪn	-1802
+1563	German	to live	3	7.11	wohnen	voːnən	7
+1564	French	to live	3	7.11	habiter	abite	9
+1566	Dutch	to live	3	7.11	wonen	woːnə	7
+1567	English	to live	3	7.11	live	laɪv	8
+1659	German	the roof	97	7.51	Dach	dax	293
+1660	French	the roof	97	7.51	toit	twɑ	295
+1661	Dutch	the roof	97	7.51	dak	dɑk	293
+1662	English	the roof	97	7.51	roof	ruːf	294
+1674	German	the mason	14	7.61	Maurer	maurər	42
+1675	French	the mason	14	7.61	maçon	masɔ̃	43
+1676	Dutch	the mason	14	7.61	metselaar	mɛʦəlaːr	6034
+1677	English	the mason	14	7.61	mason	meɪsṇ	-43
+1692	German	the field	575	8.12	Feld	fɛlt	1726
+1693	French	the field	575	8.12	champ	ʃɑ̃	1727
+1695	Dutch	the field	575	8.12	veld	vɛlt	1726
+1696	English	the field	575	8.12	field	fiːld	1726
+1697	German	the garden	574	8.13	Garten	ɡaːrtən	-1723
+1698	French	the garden	574	8.13	jardin	ʒaʀdɛ̃	1723
+1699	Dutch	the garden	574	8.13	tuin	tœyn	1725
+1700	English	the garden	574	8.13	garden	ɡɑːdṇ	-1723
+1712	German	the ditch	571	8.17	graben	ɡraːbən	1712
+1713	French	the ditch	571	8.17	fossé	fɔse	1714
+1714	Dutch	the ditch	571	8.17	sloot	sloːt	1715
+1715	English	the ditch	571	8.17	ditch	dɪʧ	1713
+1730	German	the spade	698	8.23	spaten	ʃpaːtən	2114
+1731	French	the spade	698	8.23	bêche	bɛʃ	2115
+1732	Dutch	the spade	698	8.23	spade	spaːdə	2114
+1733	English	the spade	698	8.23	spade	speɪd	2114
+1744	German	the fork(2)/pitchfork	694	8.26	Gabel	ɡaːbəl	2101
+1745	French	the fork(2)/pitchfork	694	8.26	fourche	fuʀʃ	2104
+1748	Dutch	the fork(2)/pitchfork	694	8.26	mestvork	mɛst#fɔrk	-2104
+1749	English	the fork(2)/pitchfork	694	8.26	pitchfork	pɪʧ#fɔːk	-2104
+1750	German	the rake	695	8.27	rechen	rɛxən	2105
+1751	German	the rake	695	8.27	Harke	harkə	2107
+1752	French	the rake	695	8.27	rateau	ʀɑto	2106
+1753	Dutch	the rake	695	8.27	hark	hɑrk	2107
+1754	English	the rake	695	8.27	rake	reɪk	2105
+1773	German	the grain	591	8.42	Getreide	ɡə#traidə	1784
+1774	French	the grain	591	8.42	grain	ɡʀɛ̃	1785
+1775	French	the grain	591	8.42	graine	ɡʀɛn	1785
+1776	Dutch	the grain	591	8.42	graan	xraːn	-1785
+1777	English	the grain	591	8.42	grain	ɡreɪn	-1785
+1802	German	to plant	747	8.531	pflanzen	p͡flanʦən	-2260
+1803	French	to plant	747	8.531	planter	plɑ̃te	2260
+1804	Dutch	to plant	747	8.531	planten	plɑntə	-2260
+1805	English	to plant	747	8.531	plant	plɑːnt	-2260
+1820	German	the beech	23	8.62	Buche	buːxə	70
+1821	French	the beech	23	8.62	hêtre	ɛtʀ	71
+1822	Dutch	the beech	23	8.62	beuk	bøːk	70
+1823	English	the beech	23	8.62	beech	biːʧ	70
+1902	German	to strike or hit or beat	633	9.21	schlagen	ʃlaːɡən	1921
+1903	French	to strike or hit or beat	633	9.21	frapper	fʀape	1923
+1905	Dutch	to strike or hit or beat	633	9.21	slaan	slaːn	1921
+1906	English	to strike or hit or beat	633	9.21	hit	hɪt	1922
+1907	English	to strike or hit or beat	633	9.21	beat	biːt	1924
+1939	German	to tear	65	9.28	reissen	raisən	193
+1940	French	to tear	65	9.28	déchirer	deʃiʀe	195
+1941	Dutch	to tear	65	9.28	scheuren	sxøːrə	196
+1942	English	to tear	65	9.28	tear	tɛər	194
+1953	German	to stretch	284	9.32	strecken	ʃtrɛkən	858
+1955	French	to stretch	284	9.32	étendre	etɑ̃dʀ	859
+1956	Dutch	to stretch	284	9.32	uitrekken	œyt#rɛkə	858
+1957	English	to stretch	284	9.32	stretch	strɛʧ	858
+1999	German	to bore	215	9.46	bohren	boːrən	648
+2001	French	to bore	215	9.46	perforer	pɛʀfɔʀe	649
+2002	Dutch	to bore	215	9.46	boren	boːrə	648
+2003	English	to bore	215	9.46	bore	bɔːr	648
+2067	German	the clay	332	9.73	Ton	toːn	1001
+2068	German	the clay	332	9.73	Lehm	leːm	1004
+2069	French	the clay	332	9.73	argile	aʀʒil	1003
+2071	Dutch	the clay	332	9.73	klei	klɛɪ	1002
+2072	English	the clay	332	9.73	clay	kleɪ	1002
+2077	German	to weave or plait/braid	330	9.75	flechten	flɛxtən	995
+2079	French	to weave or plait/braid	330	9.75	tresser	tʀɛse	997
+2080	Dutch	to weave or plait/braid	330	9.75	vlechten	vlɛxtə	995
+2081	English	to weave or plait/braid	330	9.75	weave	wiːv	996
+2082	German	the fan	326	9.79	Fächer	fɛxər	982
+2083	French	the fan	326	9.79	éventail	evɑ̃taj	984
+2084	Dutch	the fan	326	9.79	waaier	waːjər	6050
+2085	English	the fan	326	9.79	fan	fæn	983
+2133	German	to rise	562	10.21	aufstehen	auf#ʃteːən	1683
+2135	French	to rise	562	10.21	monter	mɔ̃te	1685
+2136	Dutch	to rise	562	10.21	opkomen	ɔp#koːmə	1686
+2137	English	to rise	562	10.21	rise	raɪz	1684
+2144	German	to fall	564	10.23	fallen	falən	1692
+2145	French	to fall	564	10.23	tomber	tɔ̃be	1693
+2146	Dutch	to fall	564	10.23	vallen	vɑlə	1692
+2147	English	to fall	564	10.23	fall	fɔːl	1692
+2161	German	to flow	612	10.32	fliessen	fliːsən	1851
+2163	French	to flow	612	10.32	couler	kule	1852
+2164	Dutch	to flow	612	10.32	stromen	stroːmə	1853
+2165	English	to flow	612	10.32	flow	fləʊ	1851
+2166	German	to sink	352	10.33	senken	zɛŋkən	1062
+2168	French	to sink	352	10.33	sombrer	sɔ̃bʀe	1064
+2169	Dutch	to sink	352	10.33	zinken	zɪŋkə	1062
+2170	English	to sink	352	10.33	sink	sɪŋk	1062
+2214	German	to limp	320	10.451	hinken	hɪŋkən	961
+2215	French	to limp	320	10.451	boiter	bwate	963
+2216	Dutch	to limp	320	10.451	hinken	hɪŋkə	961
+2217	English	to limp	320	10.451	limp	lɪmp	962
+2386	German	to hold	470	11.15	halten	haltən	1407
+2387	French	to hold	470	11.15	tenir	təniʀ	1406
+2388	Dutch	to hold	470	11.15	vasthouden	vɑst#hɑudə	1407
+2389	English	to hold	470	11.15	hold	həʊld	1407
+2390	German	to get	467	11.16	kriegen	kriːɡən	1394
+2391	French	to get	467	11.16	obtenir	ɔptəniʀ	1396
+2392	Dutch	to get	467	11.16	krijgen	krɛɪɣə	1394
+2393	English	to get	467	11.16	get	ɡɛt	1395
+2466	German	the debt	63	11.64	Schuld	ʃʊlt	186
+2467	French	the debt	63	11.64	dette	dɛt	187
+2468	Dutch	the debt	63	11.64	schuld	sxʉlt	186
+2469	English	the debt	63	11.64	debt	dɛt	-187
+2650	German	the middle	285	12.37	Mitte	mɪtə	860
+2651	German	the middle	285	12.37	Zentrum	ʦɛntrʊm	862
+2652	French	the middle	285	12.37	milieu	miljø	861
+2653	French	the middle	285	12.37	centre	sɑ̃tʀ	862
+2654	Dutch	the middle	285	12.37	midden	mɪdə	860
+2655	English	the middle	285	12.37	middle	mɪdḷ	860
+2717	German	wide	395	12.61	breit	brait	1193
+2718	French	wide	395	12.61	large	laʀʒ	1195
+2719	Dutch	wide	395	12.61	breed	breːt	1193
+2720	Dutch	wide	395	12.61	wijd	wɛɪt	1194
+2721	English	wide	395	12.61	wide	waɪd	1194
+2730	German	thin	150	12.65	dünn	dʏn	467
+2731	French	thin	150	12.65	mince	mɛ̃s	468
+2732	Dutch	thin	150	12.65	dun	dʉn	467
+2733	English	thin	150	12.65	thin	θɪn	467
+2734	German	deep	390	12.67	tief	tiːf	1177
+2735	French	deep	390	12.67	profond	pʀɔfɔ̃	1178
+2736	Dutch	deep	390	12.67	diep	diːp	1177
+2737	English	deep	390	12.67	deep	diːp	1177
+2771	German	to change	185	12.93	verändern	fɛr#ɛndərn	569
+2774	French	to change	185	12.93	changer	ʃɑ̃ʒe	571
+2775	Dutch	to change	185	12.93	veranderen	vər#ɑndərə	569
+2776	English	to change	185	12.93	change	ʧeɪnʤ	-571
+2815	German	few	521	13.17	wenig	veːnɪx	1568
+2816	French	few	521	13.17	peu	pø	1570
+2817	Dutch	few	521	13.17	weinig	wɛɪnəx	1568
+2818	English	few	521	13.17	few	fjuː	1569
+2824	German	full	648	13.21	voll	fɔl	1970
+2825	French	full	648	13.21	plein	plɛ̃	1970
+2826	Dutch	full	648	13.21	vol	vɔl	1970
+2827	English	full	648	13.21	full	fʊl	1970
+2852	German	third	409	13.42	Dritte	drɪtə	1230
+2853	French	third	409	13.42	troisième	tʀwazjɛm	1230
+2854	Dutch	third	409	13.42	derde	dɛrdə	1230
+2855	English	third	409	13.42	third	θɜːd	1230

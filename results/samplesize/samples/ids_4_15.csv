@@ -1,0 +1,62 @@
+ID	Language	Gloss	GlossID	IDS_ID	Ortho	IPA	CogID
+301	German	the child(1)	37	2.27	Kind	kɪnt	111
+302	French	the child(1)	37	2.27	enfant	ɑ̃fɑ̃	113
+303	Dutch	the child(1)	37	2.27	kind	kɪnt	111
+304	English	the child(1)	37	2.27	child	ʧaɪld	112
+549	German	the hen	705	3.54	Huhn	huːn	2141
+550	French	the hen	705	3.54	poule	pul	2142
+551	Dutch	the hen	705	3.54	hen	hɛn	2141
+552	English	the hen	705	3.54	hen	hɛn	2141
+1113	German	the goitre/goiter	712	4.842	Kropf	krɔp͡f	2159
+1114	French	the goitre/goiter	712	4.842	goître	ɡwatʀ	2160
+1115	Dutch	the goitre/goiter	712	4.842	krop	krɔp	2159
+1116	English	the goitre/goiter	712	4.842	goitre	ɡɔɪtər	-2160
+1178	German	bald	379	4.93	kahl	kaːl	1144
+1179	French	bald	379	4.93	chauve	ʃov	1146
+1180	Dutch	bald	379	4.93	kaal	kaːl	1144
+1181	English	bald	379	4.93	bald	bɔːld	1145
+1217	German	rotten	440	5.125	faul	faul	1316
+1218	French	rotten	440	5.125	pourri	puʀi	1318
+1219	Dutch	rotten	440	5.125	rot	rɔt	1317
+1220	English	rotten	440	5.125	rotten	rɔtṇ	1317
+1269	German	the plate	444	5.32	Teller	tɛlər	1326
+1270	French	the plate	444	5.32	assiette	asjɛt	1328
+1271	Dutch	the plate	444	5.32	bord	bɔrt	1327
+1272	English	the plate	444	5.32	plate	pleɪt	6025
+1287	German	the fork	447	5.39	Gabel	ɡaːbəl	1336
+1288	French	the fork	447	5.39	fourchette	fuʀʃɛt	1337
+1289	Dutch	the fork	447	5.39	vork	vɔrk	-1337
+1290	English	the fork	447	5.39	fork	fɔːk	-1337
+1455	German	the needle(1)	210	6.36	Nadel	naːdəl	633
+1456	French	the needle(1)	210	6.36	aiguille	eɡɥij	634
+1457	Dutch	the needle(1)	210	6.36	naald	naːlt	633
+1458	English	the needle(1)	210	6.36	needle	niːdḷ	633
+1467	German	the sock or stocking	193	6.49	Strumpf	ʃtrʊmp͡f	589
+1469	French	the sock or stocking	193	6.49	chaussette	ʃosɛt	593
+1471	Dutch	the sock or stocking	193	6.49	sok	sɔk	590
+1472	English	the sock or stocking	193	6.49	sock	sɔk	590
+1674	German	the mason	14	7.61	Maurer	maurər	42
+1675	French	the mason	14	7.61	maçon	masɔ̃	43
+1676	Dutch	the mason	14	7.61	metselaar	mɛʦəlaːr	6034
+1677	English	the mason	14	7.61	mason	meɪsṇ	-43
+1773	German	the grain	591	8.42	Getreide	ɡə#traidə	1784
+1774	French	the grain	591	8.42	grain	ɡʀɛ̃	1785
+1775	French	the grain	591	8.42	graine	ɡʀɛn	1785
+1776	Dutch	the grain	591	8.42	graan	xraːn	-1785
+1777	English	the grain	591	8.42	grain	ɡreɪn	-1785
+2024	German	the blacksmith	317	9.6	Schmied	ʃmiːt	949
+2025	French	the blacksmith	317	9.6	forgeron	fɔʀʒəʀɔ̃	950
+2026	Dutch	the blacksmith	317	9.6	smid	smɪt	949
+2027	English	the blacksmith	317	9.6	blacksmith	blæk#smɪθ	949
+2347	German	the oar	366	10.85	Ruder	ruːdər	1112
+2348	French	the oar	366	10.85	rame	ʀam	1114
+2349	Dutch	the oar	366	10.85	riem	riːm	-1114
+2350	English	the oar	366	10.85	oar	ɔːr	1113
+2744	German	the hook	190	12.75	haken	haːkən	584
+2745	French	the hook	190	12.75	crochet	kʀɔʃɛ	585
+2746	Dutch	the hook	190	12.75	haak	haːk	584
+2747	English	the hook	190	12.75	hook	hʊk	584
+2771	German	to change	185	12.93	verändern	fɛr#ɛndərn	569
+2774	French	to change	185	12.93	changer	ʃɑ̃ʒe	571
+2775	Dutch	to change	185	12.93	veranderen	vər#ɑndərə	569
+2776	English	to change	185	12.93	change	ʧeɪnʤ	-571

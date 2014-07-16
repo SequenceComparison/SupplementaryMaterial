@@ -1,0 +1,153 @@
+ID	Language	Gloss	GlossID	IDS_ID	Ortho	IPA	CogID
+16	German	the mud	492	1.214	Schlamm	ʃlam	1471
+17	German	the mud	492	1.214	Dreck	drɛk	1474
+18	French	the mud	492	1.214	boue	bu	1473
+19	Dutch	the mud	492	1.214	modder	mɔdər	1472
+20	English	the mud	492	1.214	mud	mʌd	1472
+119	German	the river or stream	346	1.36	Fluss	flʊs	1040
+120	German	the river or stream	346	1.36	Strom	ʃtroːm	1043
+121	German	the river or stream	346	1.36	Bach	bax	1044
+122	French	the river or stream	346	1.36	fleuve	flœv	1042
+123	French	the river or stream	346	1.36	rivière	ʀivjɛʀ	1041
+124	French	the river or stream	346	1.36	ruisseau	ʀɥiso	1045
+125	Dutch	the river or stream	346	1.36	rivier	riːviːr	-1041
+126	Dutch	the river or stream	346	1.36	stroom	stroːm	1043
+127	English	the river or stream	346	1.36	river	rɪvər	-1041
+128	English	the river or stream	346	1.36	stream	striːm	1043
+223	German	the wind	253	1.72	Wind	vɪnt	760
+224	French	the wind	253	1.72	vent	vɑ̃	760
+225	Dutch	the wind	253	1.72	wind	wɪnt	760
+226	English	the wind	253	1.72	wind	wɪnd	760
+275	German	the man	35	2.21	Mann	man	106
+276	French	the man	35	2.21	homme	ɔm	107
+277	Dutch	the man	35	2.21	man	mɑn	106
+278	English	the man	35	2.21	man	mæn	106
+301	German	the child(1)	37	2.27	Kind	kɪnt	111
+302	French	the child(1)	37	2.27	enfant	ɑ̃fɑ̃	113
+303	Dutch	the child(1)	37	2.27	kind	kɪnt	111
+304	English	the child(1)	37	2.27	child	ʧaɪld	112
+325	German	to marry	244	2.33	heiraten	hairaːtən	732
+326	French	to marry	244	2.33	épouser	epuze	734
+327	Dutch	to marry	244	2.33	trouwen	trɑuwə	735
+328	English	to marry	244	2.33	marry	mærɪ	733
+351	German	the child(2)	450	2.43	Kind	kɪnt	1343
+352	French	the child(2)	450	2.43	enfant	ɑ̃fɑ̃	1345
+353	Dutch	the child(2)	450	2.43	kind	kɪnt	1343
+354	English	the child(2)	450	2.43	child	ʧaɪld	1344
+549	German	the hen	705	3.54	Huhn	huːn	2141
+550	French	the hen	705	3.54	poule	pul	2142
+551	Dutch	the hen	705	3.54	hen	hɛn	2141
+552	English	the hen	705	3.54	hen	hɛn	2141
+553	German	the chicken	706	3.55	Huhn	huːn	2143
+554	German	the chicken	706	3.55	Hühnchen	hyːn#xən	2143
+556	French	the chicken	706	3.55	poulet	pulɛ	2145
+557	Dutch	the chicken	706	3.55	kuiken	kœykə	2144
+558	English	the chicken	706	3.55	chicken	ʧɪkɪn	2144
+712	German	the frog	268	3.95	Frosch	frɔʃ	801
+713	French	the frog	268	3.95	grenouille	ɡʀənuj	802
+714	Dutch	the frog	268	3.95	kikker	kɪkər	803
+715	English	the frog	268	3.95	frog	frɔɡ	801
+1113	German	the goitre/goiter	712	4.842	Kropf	krɔp͡f	2159
+1114	French	the goitre/goiter	712	4.842	goître	ɡwatʀ	2160
+1115	Dutch	the goitre/goiter	712	4.842	krop	krɔp	2159
+1116	English	the goitre/goiter	712	4.842	goitre	ɡɔɪtər	-2160
+1117	German	the cold	711	4.843	Erkältung	ɛr#kɛlt#ʊŋ	2156
+1118	French	the cold	711	4.843	rhume	ʀym	2157
+1119	Dutch	the cold	711	4.843	verkoudheid	vər#kɑut#hɛɪt	2156
+1120	English	the cold	711	4.843	cold	kəʊld	2156
+1158	German	the medicine	624	4.88	Arznei	aːrʦ#nai	1887
+1159	German	the medicine	624	4.88	Heilmittel	hail#mɪtəl	1890
+1161	French	the medicine	624	4.88	remède	ʀəmɛd	1889
+1162	French	the medicine	624	4.88	médecine	mɛdsin	1888
+1163	Dutch	the medicine	624	4.88	medicijn	meːdiːsɛɪn	-1888
+1164	English	the medicine	624	4.88	medicine	mɛdsɪn	-1888
+1178	German	bald	379	4.93	kahl	kaːl	1144
+1179	French	bald	379	4.93	chauve	ʃov	1146
+1180	Dutch	bald	379	4.93	kaal	kaːl	1144
+1181	English	bald	379	4.93	bald	bɔːld	1145
+1182	German	lame	92	4.94	lahm	laːm	276
+1183	French	lame	92	4.94	boiteux	bwatø	277
+1184	Dutch	lame	92	4.94	lam	lɑm	276
+1185	English	lame	92	4.94	lame	lɑːmeɪ	276
+1217	German	rotten	440	5.125	faul	faul	1316
+1218	French	rotten	440	5.125	pourri	puʀi	1318
+1219	Dutch	rotten	440	5.125	rot	rɔt	1317
+1220	English	rotten	440	5.125	rotten	rɔtṇ	1317
+1261	German	the kettle	659	5.27	Kessel	kɛsəl	2003
+1262	French	the kettle	659	5.27	bouilloire	bujwaʀ	2004
+1263	Dutch	the kettle	659	5.27	ketel	keːtəl	2003
+1264	English	the kettle	659	5.27	kettle	kɛtḷ	2003
+1269	German	the plate	444	5.32	Teller	tɛlər	1326
+1270	French	the plate	444	5.32	assiette	asjɛt	1328
+1271	Dutch	the plate	444	5.32	bord	bɔrt	1327
+1272	English	the plate	444	5.32	plate	pleɪt	6025
+1287	German	the fork	447	5.39	Gabel	ɡaːbəl	1336
+1288	French	the fork	447	5.39	fourchette	fuʀʃɛt	1337
+1289	Dutch	the fork	447	5.39	vork	vɔrk	-1337
+1290	English	the fork	447	5.39	fork	fɔːk	-1337
+1365	German	the nut	550	5.77	Nuss	nʊs	1650
+1366	French	the nut	550	5.77	noix	nwa	1650
+1367	Dutch	the nut	550	5.77	noot	noːt	1650
+1368	English	the nut	550	5.77	nut	nʌt	1650
+1455	German	the needle(1)	210	6.36	Nadel	naːdəl	633
+1456	French	the needle(1)	210	6.36	aiguille	eɡɥij	634
+1457	Dutch	the needle(1)	210	6.36	naald	naːlt	633
+1458	English	the needle(1)	210	6.36	needle	niːdḷ	633
+1467	German	the sock or stocking	193	6.49	Strumpf	ʃtrʊmp͡f	589
+1469	French	the sock or stocking	193	6.49	chaussette	ʃosɛt	593
+1471	Dutch	the sock or stocking	193	6.49	sok	sɔk	590
+1472	English	the sock or stocking	193	6.49	sock	sɔk	590
+1674	German	the mason	14	7.61	Maurer	maurər	42
+1675	French	the mason	14	7.61	maçon	masɔ̃	43
+1676	Dutch	the mason	14	7.61	metselaar	mɛʦəlaːr	6034
+1677	English	the mason	14	7.61	mason	meɪsṇ	-43
+1773	German	the grain	591	8.42	Getreide	ɡə#traidə	1784
+1774	French	the grain	591	8.42	grain	ɡʀɛ̃	1785
+1775	French	the grain	591	8.42	graine	ɡʀɛn	1785
+1776	Dutch	the grain	591	8.42	graan	xraːn	-1785
+1777	English	the grain	591	8.42	grain	ɡreɪn	-1785
+1886	German	to fold	99	9.15	falten	faltən	300
+1887	French	to fold	99	9.15	plier	plije	301
+1888	Dutch	to fold	99	9.15	vouwen	vɑuwə	6037
+1889	English	to fold	99	9.15	fold	fəʊld	300
+2024	German	the blacksmith	317	9.6	Schmied	ʃmiːt	949
+2025	French	the blacksmith	317	9.6	forgeron	fɔʀʒəʀɔ̃	950
+2026	Dutch	the blacksmith	317	9.6	smid	smɪt	949
+2027	English	the blacksmith	317	9.6	blacksmith	blæk#smɪθ	949
+2117	German	to wrap	701	10.14	wickeln	vɪkəln	2125
+2118	French	to wrap	701	10.14	enrouler	ɑ̃ʀule	2124
+2120	Dutch	to wrap	701	10.14	wikkelen	wɪkələ	2125
+2121	English	to wrap	701	10.14	wrap	ræp	2123
+2122	German	to roll	700	10.15	wälzen	vɛlʦən	2120
+2123	German	to roll	700	10.15	rollen	rɔlən	-2121
+2124	French	to roll	700	10.15	rouler	ʀule	2121
+2125	Dutch	to roll	700	10.15	rollen	rɔlə	-2121
+2126	English	to roll	700	10.15	roll	rəʊl	-2121
+2175	German	to swim	155	10.35	schwimmen	ʃvɪmən	476
+2176	French	to swim	155	10.35	nager	naʒe	477
+2177	Dutch	to swim	155	10.35	zwemmen	zwɛmə	476
+2178	English	to swim	155	10.35	swim	swɪm	476
+2347	German	the oar	366	10.85	Ruder	ruːdər	1112
+2348	French	the oar	366	10.85	rame	ʀam	1114
+2349	Dutch	the oar	366	10.85	riem	riːm	-1114
+2350	English	the oar	366	10.85	oar	ɔːr	1113
+2435	German	to find	188	11.32	finden	fɪndən	579
+2436	French	to find	188	11.32	trouver	tʀuve	580
+2437	Dutch	to find	188	11.32	vinden	vɪndə	579
+2438	English	to find	188	11.32	find	faɪnd	579
+2497	German	to earn	275	11.79	verdienen	fɛr#diːnən	821
+2498	French	to earn	275	11.79	gagner	ɡaɲe	823
+2499	Dutch	to earn	275	11.79	verdienen	vər#diːnə	821
+2500	English	to earn	275	11.79	earn	ɜːn	822
+2615	German	high	281	12.31	hoch	hoːx	847
+2616	French	high	281	12.31	haut	o	848
+2617	Dutch	high	281	12.31	hoog	hoːx	847
+2618	English	high	281	12.31	high	haɪ	847
+2744	German	the hook	190	12.75	haken	haːkən	584
+2745	French	the hook	190	12.75	crochet	kʀɔʃɛ	585
+2746	Dutch	the hook	190	12.75	haak	haːk	584
+2747	English	the hook	190	12.75	hook	hʊk	584
+2771	German	to change	185	12.93	verändern	fɛr#ɛndərn	569
+2774	French	to change	185	12.93	changer	ʃɑ̃ʒe	571
+2775	Dutch	to change	185	12.93	veranderen	vər#ɑndərə	569
+2776	English	to change	185	12.93	change	ʧeɪnʤ	-571

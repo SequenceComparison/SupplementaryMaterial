@@ -30,7 +30,7 @@ If you use the material, please cite my thesis, in which the material was first 
 
 Please also cite this data repository as:
 
-* List, J.-M. (2014): Data from: Sequence comparison in historical linguistics. GitHub Repository. http://github.com/SequenceComparison/SupplementaryMaterial. Release 1.0.
+* List, J.-M. (2014): Data from: Sequence comparison in historical linguistics. GitHub Repository. http://github.com/SequenceComparison/SupplementaryMaterial. Release: 1.0.
 
 
 

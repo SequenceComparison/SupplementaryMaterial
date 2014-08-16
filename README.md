@@ -24,4 +24,13 @@ http://sequencecomparison.github.io.
 
 ## Citing the Material
 
+If you use the material, please cite my thesis, in which the material was first introduced:
+
+* List, J.-M. (2014): Sequence comparison in historical linguistics. Düsseldorf: Düsseldorf University Press.
+
+Please also cite this data repository as:
+
+* List, J.-M. (2014): Data from: Sequence comparison in historical linguistics. GitHub Repository. http://github.com/SequenceComparison/SupplementaryMaterial. Release 1.0.
+
+
 
